@@ -1,7 +1,8 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: The Book Matchmaker
 ---
-## The index page
+## Description
+This will be a knowledge base website designed to help readers discover books that match their interests, favorite genres, and reading preferences. The site provides genre guides, book recommendations, author information, and reading resources to make finding the perfect book easier and more enjoyable for readers of all experience levels.
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
