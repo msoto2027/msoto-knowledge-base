@@ -1,6 +1,7 @@
 ---
 title: About Me
 ---
+## About Me
 
 Hello! My name is Marisol, and I am a senior at Texas Tech University with a passion for fitness, music, reading, and discovering new experiences. I enjoy staying active, learning about health and wellness, attending concerts, and spending time with family and friends. I am always looking for opportunities to grow, challenge myself, and develop healthy habits that contribute to a balanced lifestyle.
 
