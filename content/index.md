@@ -1,40 +1,20 @@
 ---
-title: The Book Matchmaker
+title: FitIQ Knowledge Base
 ---
 ## Description
-This will be a knowledge base website designed to help readers discover books that match their interests, favorite genres, and reading preferences. The site provides genre guides, book recommendations, author information, and reading resources to make finding the perfect book easier and more enjoyable for readers of all experience levels.
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+FitIQ Knowledge Base is a comprehensive online resource designed to help individuals achieve their fitness and wellness goals. The website provides information on workout routines, strength training, cardiovascular exercise, nutrition, injury prevention, and fitness equipment. Whether users are beginners looking to start a healthy lifestyle or experienced athletes seeking to improve their performance, FitIQ offers reliable and easy-to-understand guidance.
 
-## Editing pages
+I chose this topic because fitness is something that is personally important to me. My brother and I have recently decided to restart our fitness journey together before he leaves for Texas Tech this fall. Building a fitness knowledge base allows me to learn more about exercise, nutrition, and healthy habits while creating a resource that could help others who are working toward similar goals. Because of this personal connection, I believe I will stay engaged with the project and create meaningful content.
+## Main Categories
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
+- [[beginner-workouts-01/index|Beginner Workouts]]
+- [[strength-training-02/index|Strength Training]]
+- [[cardio-training-03/index|Cardio Training]]
+- [[nutrition-04/index|Nutrition]]
+- [[injury-prevention-05/index|Injury Prevention]]
+- [[equipment-guides-06/index|Equipment Guides]]
+- [[faq-07/index|Frequently Asked Questions]]
 
 ---
 ## Adding new pages
