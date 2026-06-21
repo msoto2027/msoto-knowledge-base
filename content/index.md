@@ -16,8 +16,4 @@ I chose this topic because fitness is something that is personally important to 
 - [[equipment-guides-06/index|Equipment Guides]]
 - [[faq-07/index|Frequently Asked Questions]]
 
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
