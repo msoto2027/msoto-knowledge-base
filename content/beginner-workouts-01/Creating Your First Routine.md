@@ -25,6 +25,7 @@ Most people quit because they try to do too much too fast. Keeping things simple
 5. Friday – Cardio again  
 6. Weekend – Optional light movement
 
+![[calendar-routine.jpg|350]]
 ## What I remind myself
 
 I don’t need a “perfect” plan; I just need a repeatable one.

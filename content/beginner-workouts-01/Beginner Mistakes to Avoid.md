@@ -2,6 +2,7 @@
 title: Beginner Mistakes to Avoid
 ---
 # Beginner Mistakes to Avoid
+![[learn-failure.jpg]]
 
 These are mistakes I’ve personally made every time I’ve tried getting back into working out.
 

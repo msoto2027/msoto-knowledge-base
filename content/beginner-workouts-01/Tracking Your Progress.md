@@ -23,6 +23,9 @@ It’s a simple system, but it works because it turns consistency into something
 - Notes app workout log
 - Weekly check-in with myself
 - Occasional progress photos (not obsessively)
+- using a fitness watch (like below)
+
+![[fitness-watch.jpg]]
 
 ## Why it matters
 

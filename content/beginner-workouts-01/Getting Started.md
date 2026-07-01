@@ -18,7 +18,7 @@ Right now, I’m focusing on:
 
 ## Beginner home workout setup
 
-![Beginner at-home workout space with yoga mat, light dumbbells, and open room](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b)
+![[beginner-at-home.jpg]]
 
 This is a simple setup that works for most beginner workouts. A yoga mat, light dumbbells, and an open space are enough to get started without needing a gym.
 
