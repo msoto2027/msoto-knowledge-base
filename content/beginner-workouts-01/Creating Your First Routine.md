@@ -29,10 +29,12 @@ Most people quit because they try to do too much too fast. Keeping things simple
 
 I don’t need a “perfect” plan; I just need a repeatable one.
 
-If you’re building a routine, also check:  
-- [[Getting Started]]  
-- [[Beginner Mistakes to Avoid]]  
-- [[Staying Motivated]]
+### If you’re building a routine, also check:  
+
+1. [[Beginner Mistakes to Avoid]]
+2. [[Tracking Your Progress]]
+3. [[Staying Motivated]]
+4. [[Getting Started]]
 
 ## Building up over time
 

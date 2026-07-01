@@ -19,8 +19,14 @@ Consistency is way more important than intensity. I’d rather do 30 minutes thr
 
 > “Missing one workout doesn’t break progress—quitting does.”
 
+## Continue Learning
+  
+1. [[Tracking Your Progress]]
+2. [[Staying Motivated]]
+3. [[Getting Started]]
+4. [[Creating Your First Routine]]
 ## Helpful pages
 
-- [[Injury Prevention]] – so I don’t get hurt again
-- [[Equipment Guides]] – when I need simple setup ideas
-- [[Frequently Asked Questions]] – when I overthink things
+- [[injury-prevention-05/index|Injury Prevention]] – so I don’t get hurt again
+- [[equipment-guides-06/index|Equipment Guides]] – when I need simple setup ideas
+- [[faq-07/index|Frequently Asked Questions]] – when I overthink things

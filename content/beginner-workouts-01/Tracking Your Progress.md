@@ -28,11 +28,13 @@ It’s a simple system, but it works because it turns consistency into something
 
 Without tracking, it feels like nothing is happening—even when it is. Seeing patterns over time makes it easier to stay consistent.
 
-This connects to:  
-- [[Staying Motivated]]  
-- [[Creating Your First Routine]]  
-- [[Getting Started]]
-## Related pages
+### This connects to:  
+
+1. [[Staying Motivated]]
+2. [[Getting Started]]
+3. [[Creating Your First Routine]]
+4. [[Beginner Mistakes to Avoid]]
+### Related pages
 
 - [[strength-training-02/index|Strength Training]]
 - [[nutrition-04/index|Nutrition]]

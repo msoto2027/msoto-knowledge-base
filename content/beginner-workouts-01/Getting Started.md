@@ -31,9 +31,10 @@ Classes can also help you learn proper form and get comfortable with different t
 Over time, once you feel more confident, you can branch off and start building your own routine using things you’ve learned from classes and combine that with what works best for you personally.
 ## Next steps:
 
-- [[Creating Your First Routine]]
-- [[Beginner Mistakes to Avoid]]
-- [[Tracking Your Progress]]
+1. [[Creating Your First Routine]]
+2. [[Beginner Mistakes to Avoid]]
+3. [[Tracking Your Progress]]
+4. [[Staying Motivated]]
 ## Where this leads
 
 Once things start feeling more natural, I branch into:

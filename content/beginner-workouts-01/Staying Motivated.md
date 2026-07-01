@@ -26,8 +26,9 @@ Some days I don’t feel like working out at all. Instead of skipping everything
 
 > “You don’t need motivation every day, you need a system that still works when you don’t have it.”
 
-## Where this connects
+## Go back to the beginning
 
-- [[Creating Your First Routine]]
-- [[Tracking Your Progress]]
-- [[faq-07/index|Frequently Asked Questions]]
+1. [[Getting Started]]
+2. [[Creating Your First Routine]]
+3. [[Beginner Mistakes to Avoid]]
+4. [[Tracking Your Progress]]

@@ -3,11 +3,11 @@ title: Beginner Workouts
 ---
 ## Start Here
 
-- [[Getting Started]]
-- [[Creating Your First Routine]]
-- [[Beginner Mistakes to Avoid]]
-- [[Tracking Your Progress]]
-- [[Staying Motivated]]
+1. [[Getting Started]]
+2. [[Creating Your First Routine]]
+3. [[Beginner Mistakes to Avoid]]
+4. [[Tracking Your Progress]]
+5. [[Staying Motivated]]
 ## Related Categories
 Beginner workouts relate to [[strength-training-02/index|strength training]] because they often focus on simple, foundational exercises that help build basic muscle strength, proper form, and confidence before moving on to more advanced lifting routines.
 
