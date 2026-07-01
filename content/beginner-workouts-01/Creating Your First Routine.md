@@ -29,7 +29,15 @@ Most people quit because they try to do too much too fast. Keeping things simple
 
 I don’t need a “perfect” plan; I just need a repeatable one.
 
-If I’m unsure what to do, I check:
-- [[Cardio Training]]
-- [[Strength Training]]
-- [[Injury Prevention]]
+If you’re building a routine, also check:  
+- [[Getting Started]]  
+- [[Beginner Mistakes to Avoid]]  
+- [[Staying Motivated]]
+
+## Building up over time
+
+Once you start getting into the groove with your routine, you can slowly increase what you’re doing. That might mean adding an extra workout day, increasing how long you do cardio, or pushing yourself a little more during strength sessions.
+
+The goal isn’t to rush it! It’s to build a base first, then gradually expand from there.
+
+When things start feeling easier and more consistent, that’s usually the point where you can start exploring the other main categories like [[cardio-training-03/index|Cardio Training]], [[strength-training-02/index|Strength Training]] and [[nutrition-04/index|Nutrition]] in more depth.

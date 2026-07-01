@@ -16,17 +16,30 @@ Right now, I’m focusing on:
 
 > “The best workout plan is the one you can actually stick to.”
 
-## What a beginner workout looks like  
-  
-![A simple home workout setup](https://images.unsplash.com/photo-1517836357463-d25dfeac3438)  
-  
-This is an example of a simple beginner-friendly workout environment. You don’t need machines or a gym to get started, just space and consistency.
+## Beginner home workout setup
+
+![Beginner at-home workout space with yoga mat, light dumbbells, and open room](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b)
+
+This is a simple setup that works for most beginner workouts. A yoga mat, light dumbbells, and an open space are enough to get started without needing a gym.
+
+## Other ways to get started
+
+Not everyone has to begin at home. Another option is going to beginner-friendly fitness classes at a local gym or studio. These can be helpful because they give structure, guidance, and a built-in routine without having to plan everything yourself.
+
+Classes can also help you learn proper form and get comfortable with different types of workouts before trying things on your own.
+
+Over time, once you feel more confident, you can branch off and start building your own routine using things you’ve learned from classes and combine that with what works best for you personally.
+## Next steps:
+
+- [[Creating Your First Routine]]
+- [[Beginner Mistakes to Avoid]]
+- [[Tracking Your Progress]]
 ## Where this leads
 
 Once things start feeling more natural, I branch into:
-- [[Cardio Training]]
-- [[Strength Training]]
-- [[Nutrition]]
-- [[Injury Prevention]]
+- [[cardio-training-03/index|Cardio Training]]
+- [[strength-training-02/index|Strength Training]]
+- [[nutrition-04/index|Nutrition]]
+- [[injury-prevention-05/index|Injury Prevention]]
 
 This page is basically just my “reset point.”
