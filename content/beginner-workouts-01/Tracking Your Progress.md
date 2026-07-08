@@ -27,6 +27,9 @@ It’s a simple system, but it works because it turns consistency into something
 
 ![[fitness-watch.jpg]]
 
+#### Learn more about Apple Fitness
+
+![[Apple_Fitness.pdf]]
 ## Why it matters
 
 Without tracking, it feels like nothing is happening—even when it is. Seeing patterns over time makes it easier to stay consistent.

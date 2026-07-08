@@ -5,6 +5,10 @@ title: Beginner Workouts
 
 Welcome to the Beginner Workouts section! Whether you're exercising for the first time or getting back into a routine after taking time off, this category is designed to help you build a solid foundation. The pages below cover everything from getting started and creating a routine to staying motivated and tracking your progress. Think of this section as your starting point before exploring more specialized fitness topics.
 
+![[healthy life.png]]
+
+Remember that exercise is only one part of a healthy lifestyle. Consistent physical activity, balanced nutrition, quality sleep, proper hydration, and stress management all work together to improve your overall health and well-being. Building healthy habits outside of your workouts will help you feel better, recover more effectively, and stay consistent over the long term.
+
 ## Pages
 
 - [[Getting Started]]
@@ -19,7 +23,7 @@ Beginner workouts naturally connect to [[strength-training-02/index|Strength Tra
 
 They also connect to [[cardio-training-03/index|Cardio Training]], since many beginner routines include simple activities like walking, cycling, or light jogging to improve endurance and overall fitness.
 
-As your workouts become more consistent, [[nutrition-04/index|Nutrition]] becomes increasingly important. Eating a balanced diet and staying hydrated help fuel your workouts and support muscle recovery.
+As your workouts become more consistent, [[nutrition-04/index|Nutrition]] becomes increasingly important. Eating a balanced diet, staying hydrated, and getting enough sleep help fuel your workouts, support muscle recovery, and maintain a healthy lifestyle.
 
 Learning proper technique and listening to your body can help reduce the risk of injury, making [[injury-prevention-05/index|Injury Prevention]] an important companion to any beginner workout plan.
 
