@@ -1,5 +1,5 @@
 ---
-title: "Week 06 Assignment 02: Analyzing an Organizing System"
+title: Week 06 Assignment 02
 ---
 # Organizing System Analysis: The Metropolitan Museum of Art Online Collection
 
