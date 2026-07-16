@@ -78,7 +78,7 @@ Fitness should feel rewarding, not like a punishment.
 
 Related topics:
 
-- [[Basics]]
+- [[cardio-training-03/Basics]]
 - [[Cardio Types]]
 - [[Endurance]]
 - [[Common Mistakes]]

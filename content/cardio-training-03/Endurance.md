@@ -69,7 +69,7 @@ The goal is building a routine that I can continue for months and years.
 
 Related topics:
 
-- [[Basics]]
+- [[cardio-training-03/Basics]]
 - [[Cardio Types]]
 - [[Training Plans]]
 - [[Common Mistakes]]

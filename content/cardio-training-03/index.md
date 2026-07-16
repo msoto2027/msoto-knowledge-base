@@ -39,7 +39,7 @@ A few things I'm reminding myself:
 
 ## What You'll Find Here
 
-### [[Basics]]
+### [[cardio-training-03/Basics]]
 
 Learn the core concepts of cardio, different intensity levels, and how cardio benefits your body.
 

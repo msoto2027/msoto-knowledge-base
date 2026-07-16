@@ -82,7 +82,7 @@ Everything else feels like small details I can learn over time.
 
 Related pages:
 
-- [[Basics]]
+- [[nutrition-04/Basics]]
 - [[Calories & Macros]]
 - [[Meal Planning]]
 - [[Fitness Goals]]

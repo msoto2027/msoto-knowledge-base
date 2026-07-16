@@ -75,7 +75,7 @@ Finding something I enjoy is more valuable than forcing myself to do something I
 
 Related topics:
 
-- [[Basics]]
+- [[cardio-training-03/Basics]]
 - [[Endurance]]
 - [[Training Plans]]
 - [[Common Mistakes]]

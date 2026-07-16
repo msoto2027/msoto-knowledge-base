@@ -87,7 +87,7 @@ Slow progress is still progress.
 
 Related topics:
 
-- [[Basics]]
+- [[strength-training-02/Basics]]
 - [[Form & Technique]]
 - [[Programs & Routines]]
 - [[Strength Progress]]

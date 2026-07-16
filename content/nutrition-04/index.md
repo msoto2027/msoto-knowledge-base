@@ -38,7 +38,7 @@ There are plenty of different ways to eat well. I'm trying to find an approach t
 
 ## What You'll Find Here
 
-### [[Basics]]
+### [[nutrition-04/Basics]]
 
 Learn the core ideas behind healthy eating and how nutrition supports fitness.
 

@@ -107,7 +107,7 @@ If I ever decide to track calories or macros, I want to use them as a tool to le
 
 Related topics:
 
-- [[Basics]]
+- [[nutrition-04/Basics]]
 - [[Meal Planning]]
 - [[Fitness Goals]]
 - [[Healthy Habits]]

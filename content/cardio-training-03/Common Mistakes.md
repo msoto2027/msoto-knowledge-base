@@ -65,7 +65,7 @@ Trying different activities has helped me stay motivated and avoid getting bored
 
 Related topics:
 
-- [[Basics]]
+- [[cardio-training-03/Basics]]
 - [[Cardio Types]]
 - [[Endurance]]
 - [[Training Plans]]

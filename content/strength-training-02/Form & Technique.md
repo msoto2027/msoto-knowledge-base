@@ -111,7 +111,7 @@ Good technique is something I continue improving, even as I get stronger.
 
 Related topics:
 
-- [[Basics]]
+- [[strength-training-02/Basics]]
 - [[Programs & Routines]]
 - [[Strength Progress]]
 - [[Common Mistakes]]

@@ -63,7 +63,7 @@ The goal is not to do everything at once. The goal is to create habits you can m
 
 This section covers the key parts of strength training:
 
-### [[Basics]]
+### [[strength-training-02/Basics]]
 Learn how strength training works, different training styles, and the important concepts behind building strength.
 
 ### [[Form & Technique]]

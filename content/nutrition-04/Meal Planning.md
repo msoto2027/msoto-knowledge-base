@@ -107,7 +107,7 @@ If I have healthy foods available and a rough idea of what I'm going to eat, I'm
 
 Related topics:
 
-- [[Basics]]
+- [[nutrition-04/Basics]]
 - [[Calories & Macros]]
 - [[Fitness Goals]]
 - [[Healthy Habits]]

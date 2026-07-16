@@ -87,7 +87,7 @@ As long as I'm eating in a way that supports **my** goals and building habits I 
 
 Related topics:
 
-- [[Basics]]
+- [[nutrition-04/Basics]]
 - [[Calories & Macros]]
 - [[Meal Planning]]
 - [[Healthy Habits]]

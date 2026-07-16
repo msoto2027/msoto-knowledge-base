@@ -94,7 +94,7 @@ The goal is becoming stronger than I was before.
 
 Related topics:
 
-- [[Basics]]
+- [[strength-training-02/Basics]]
 - [[Form & Technique]]
 - [[Programs & Routines]]
 - [[Common Mistakes]]

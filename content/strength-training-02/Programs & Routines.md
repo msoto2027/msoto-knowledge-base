@@ -127,7 +127,7 @@ A simple routine followed consistently will beat a perfect routine I cannot main
 
 Related topics:
 
-- [[Basics]]
+- [[strength-training-02/Basics]]
 - [[Form & Technique]]
 - [[Strength Progress]]
 - [[Common Mistakes]]
