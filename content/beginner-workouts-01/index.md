@@ -11,7 +11,7 @@ Remember that exercise is only one part of a healthy lifestyle. Consistent physi
 
 ## Pages
 
-- [[Getting Started]]
+- [[beginner-workouts-01/Getting Started]]
 - [[Creating Your First Routine]]
 - [[Beginner Mistakes to Avoid]]
 - [[Tracking Your Progress]]

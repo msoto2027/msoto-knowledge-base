@@ -35,7 +35,7 @@ I don’t need a “perfect” plan; I just need a repeatable one.
 1. [[Beginner Mistakes to Avoid]]
 2. [[Tracking Your Progress]]
 3. [[Staying Motivated]]
-4. [[Getting Started]]
+4. [[beginner-workouts-01/Getting Started]]
 
 ## Building up over time
 

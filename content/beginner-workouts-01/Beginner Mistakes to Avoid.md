@@ -24,7 +24,7 @@ Consistency is way more important than intensity. I’d rather do 30 minutes thr
   
 1. [[Tracking Your Progress]]
 2. [[Staying Motivated]]
-3. [[Getting Started]]
+3. [[beginner-workouts-01/Getting Started]]
 4. [[Creating Your First Routine]]
 ## Helpful pages
 
