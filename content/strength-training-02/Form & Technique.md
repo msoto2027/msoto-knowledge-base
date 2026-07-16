@@ -1,7 +1,6 @@
 ---
 title: Form & Techniques
 ---
-
 # Form & Technique
 
 > Learning how to move correctly before worrying about lifting heavier.
@@ -116,9 +115,3 @@ Related topics:
 - [[Programs & Routines]]
 - [[Strength Progress]]
 - [[Common Mistakes]]
-
-## Sources
-
-- [[Source - NASM Exercise Technique Guidelines]]
-- [[Source - ACSM Resistance Training Recommendations]]
-- [[Source - Stronger by Science Exercise Technique Articles]]

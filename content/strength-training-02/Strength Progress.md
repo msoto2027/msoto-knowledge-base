@@ -1,7 +1,6 @@
 ---
 title: Strength Progress
 ---
-
 # Strength Progress
 
 > Learning how to measure improvement beyond just lifting heavier.
@@ -99,9 +98,3 @@ Related topics:
 - [[Form & Technique]]
 - [[Programs & Routines]]
 - [[Common Mistakes]]
-
-## Sources
-
-- [[Source - Stronger by Science Progressive Overload]]
-- [[Source - ACSM Progression Models in Resistance Training]]
-- [[Source - NASM Resistance Training Principles]]

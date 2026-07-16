@@ -1,7 +1,6 @@
 ---
 title: Strength Training
 ---
-
 # Programs & Routines
 
 > Learning how to create workouts that actually fit my life.
@@ -132,9 +131,3 @@ Related topics:
 - [[Form & Technique]]
 - [[Strength Progress]]
 - [[Common Mistakes]]
-
-## Sources
-
-- [[Source - ACSM Resistance Training Guidelines]]
-- [[Source - Stronger by Science Training Programs]]
-- [[Source - NASM Program Design Basics]]

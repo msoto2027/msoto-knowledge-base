@@ -1,7 +1,6 @@
 ---
 title: Common Mistakes
 ---
-
 > Things I want to watch out for while rebuilding my fitness routine.
 
 When getting back into strength training, it is easy to get excited and try to make up for lost time.
@@ -92,9 +91,3 @@ Related topics:
 - [[Form & Technique]]
 - [[Programs & Routines]]
 - [[Strength Progress]]
-
-## Sources
-
-- [[Source - ACSM Resistance Training Guidelines]]
-- [[Source - Stronger by Science Training Mistakes]]
-- [[Source - NASM Training Principles]]

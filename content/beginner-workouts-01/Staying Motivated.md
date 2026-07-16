@@ -28,7 +28,7 @@ Some days I don’t feel like working out at all. Instead of skipping everything
 
 ## Go back to the beginning
 
-1. [[beginner-workouts-01/Getting Started]]
+1. [[Getting Started]]
 2. [[Creating Your First Routine]]
 3. [[Beginner Mistakes to Avoid]]
 4. [[Tracking Your Progress]]

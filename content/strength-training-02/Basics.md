@@ -1,7 +1,6 @@
 ---
 title: Basics
 ---
-
 # Strength Training Basics
 
 > Notes from getting back into strength training and learning the fundamentals again.
@@ -134,8 +133,8 @@ Next topics I want to understand:
 - [[Strength Progress]]
 - [[Common Mistakes]]
 
-## Sources
+You may also find these helpful:
 
-- [[Source - ACSM Strength Training Guidelines]]
-- [[Source - Stronger by Science Training Basics]]
-- [[Source - NASM Resistance Training Concepts]]
+- [[strength-training-02/index|Strength Training]]
+- [[cardio-training-03/index|Cardio Training]]
+- [[beginner-workouts-01/index|Beginner Workouts]]
