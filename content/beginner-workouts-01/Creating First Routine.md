@@ -1,46 +1,218 @@
 ---
 title: Creating Your First Routine
 ---
-# Creating Your First Workout Routine
+# Creating First Routine
 
-When I first try to get back into working out, I usually mess this part up, I try to do too much, get sore, and then stop for a week. So this time I’m keeping it simple.
+> Learning how to build a simple workout routine that fits my schedule and helps me build consistency.
 
-A beginner routine doesn’t need to be complicated. It just needs to be something you can repeat without dreading it.
-### Why simplicity matters
+When I started thinking about creating a workout routine, I thought it needed to be complicated.
 
-#### Overcomplicating workouts is the biggest beginner mistake
-Most people quit because they try to do too much too fast. Keeping things simple helps build consistency first.
-## What I’m trying right now
+I'm learning that a good beginner routine should be simple, realistic, and something I can actually follow.
 
-- 3 workout days per week
-- Light cardio + basic strength
-- Rest days in between (very important)
+The best routine is not the hardest one.
 
-## Example week
+It is the one I can continue doing.
 
-1. Monday – Walk or light cardio  
-2. Tuesday – Rest  
-3. Wednesday – Simple strength workout  
-4. Thursday – Rest  
-5. Friday – Cardio again  
-6. Weekend – Optional light movement
+## Starting With My Goals
 
-![[calendar-routine.jpg|350]]
-## What I remind myself
+Before creating a routine, I want to understand what I am working toward.
 
-I don’t need a “perfect” plan; I just need a repeatable one.
+Goals may include:
 
-### If you’re building a routine, also check:  
+- Building strength
+- Improving endurance
+- Losing fat
+- Improving overall fitness
+- Feeling healthier
 
-1. [[Beginner Mistakes to Avoid]]
-2. [[Tracking Progress]]
-3. [[Staying Motivated]]
-4. [[beginner-workouts-01/Getting Started]]
+My goals help decide what types of workouts I focus on.
 
-## Building up over time
+Related topics:
 
-Once you start getting into the groove with your routine, you can slowly increase what you’re doing. That might mean adding an extra workout day, increasing how long you do cardio, or pushing yourself a little more during strength sessions.
+- [[Strength Training]]
+- [[Cardio Training]]
 
-The goal isn’t to rush it! It’s to build a base first, then gradually expand from there.
+## Choosing Workout Days
 
-When things start feeling easier and more consistent, that’s usually the point where you can start exploring the other main categories like [[cardio-training-03/index|Cardio Training]], [[strength-training-02/index|Strength Training]] and [[nutrition-04/index|Nutrition]] in more depth.
+A routine should fit my schedule.
+
+Things I want to consider:
+
+- Available time
+- Recovery needs
+- Other responsibilities
+- Energy levels
+
+A realistic schedule is easier to maintain.
+
+Examples:
+
+Beginner schedule:
+
+- 2 to 3 workout days per week
+
+More experienced schedule:
+
+- More frequent training depending on goals
+
+## Balancing Strength And Cardio
+
+A balanced routine can include both.
+
+Strength training helps with:
+
+- Building muscle
+- Increasing strength
+- Improving movement
+
+Cardio training helps with:
+
+- Building endurance
+- Improving cardiovascular fitness
+
+Related topics:
+
+- [[Strength Training]]
+- [[Cardio Training]]
+
+## Creating A Simple Workout Structure
+
+A beginner workout can follow a simple pattern:
+
+1. Warm up
+2. Main workout
+3. Cool down or recovery work
+
+This structure helps me stay organized.
+
+Related topic:
+
+- [[Warm Up]]
+
+## Example Beginner Routine
+
+A simple weekly structure could look like:
+
+### Day 1
+
+Strength training
+
+Focus:
+
+- Learning basic movements
+- Building confidence
+
+### Day 2
+
+Cardio or active movement
+
+Focus:
+
+- Improving endurance
+- Staying active
+
+### Day 3
+
+Strength training or another activity
+
+Focus:
+
+- Practicing consistency
+
+The exact schedule can change depending on my goals.
+
+## Choosing Exercises
+
+When starting out, I want exercises that help me learn movement patterns.
+
+Examples:
+
+Strength:
+
+- Squat movements
+- Push movements
+- Pull movements
+- Core exercises
+
+Cardio:
+
+- Walking
+- Cycling
+- Jogging
+- Other activities I enjoy
+
+Related topics:
+
+- [[Exercises]]
+- [[Strength Training]]
+
+## Using A Fitness App To Stay Organized
+
+A fitness app can help me:
+
+- Save workouts
+- Track improvements
+- Record exercises
+- Stay motivated
+
+Tracking helps me see progress that I might not notice day to day.
+
+## Adding Music And Enjoyment
+
+Creating an enjoyable workout environment helps me stay consistent.
+
+Things that help:
+
+- Making workout playlists
+- Listening to music I enjoy
+- Choosing activities I look forward to
+
+Enjoying the process makes it easier to keep going.
+
+## Avoiding Beginner Burnout
+
+Common mistakes:
+
+- Training too many days immediately
+- Making workouts too long
+- Trying to progress too quickly
+- Ignoring recovery
+
+Starting slower can help me continue longer.
+
+Related topic:
+
+- [[Recovery]]
+
+## Adjusting My Routine
+
+My first routine does not need to be permanent.
+
+I can change things as I learn:
+
+- What exercises I enjoy
+- What fits my schedule
+- What helps me improve
+
+A routine should adapt with me.
+
+## Keep Learning
+
+Related pages:
+
+- [[Getting Started]]
+- [[Workout Basics]]
+- [[Staying Consistent]]
+- [[Tracking Progress]]
+
+Related folders:
+
+- [[Strength Training]]
+- [[Cardio Training]]
+- [[Injury Prevention]]
+
+## What I'm Taking Away
+
+Creating a routine is about finding a balance between challenge and consistency.
+
+A simple plan that I follow is more valuable than a perfect plan that I cannot maintain.

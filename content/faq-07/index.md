@@ -3,120 +3,129 @@ title: Frequently Asked Questions
 ---
 # FAQs
 
-> A place for quick answers to common fitness questions while I continue learning and building my routine.
+> Quick answers to common fitness questions and links to deeper topics throughout Fitiq.
 
-When I started getting back into fitness, I had a lot of questions.
+When I started learning about fitness, I had a lot of questions.
 
-Some questions were small:
+Some questions were about workouts, some were about nutrition, and others were about equipment or staying consistent.
 
-- How often should I work out?
-- What equipment do I need?
-- Why am I sore?
-
-Other questions were bigger:
-
-- How do I build a routine?
-- How do I know if I am making progress?
-- How do I stay consistent?
-
-This section is here to answer those common questions quickly while connecting back to the deeper topics throughout Fitiq.
+This section is designed to provide quick answers while connecting me to the deeper guides in Fitiq.
 
 ## How To Use This Section
 
-FAQs are meant to be quick answers.
+The FAQ section is not meant to replace the full guides.
 
-If I want a deeper explanation, I can follow the links to the related folders and pages.
+Instead, it helps me:
 
-Think of this section as a starting point before exploring more detailed topics.
+- Find quick answers
+- Understand common beginner questions
+- Know where to learn more
 
-## What You Will Find Here
+For deeper information, I can follow the linked pages.
+
+## Common Fitness Topics
 
 ### Getting Started
 
-Questions about beginning or returning to fitness.
+Questions about beginning my fitness journey.
 
-Examples:
+Topics include:
 
-- How do I start working out again?
-- How often should I exercise?
-- What should I focus on first?
+- Starting a workout routine
+- Building habits
+- Setting realistic expectations
 
-Related topics:
+Related page:
 
-- [[Beginner Workouts]]
-- [[Strength Training]]
-- [[Cardio Training]]
+- [[Getting Started]]
+
+---
 
 ### Workouts
 
-Questions about building and managing workouts.
+Questions about exercise and training.
 
-Examples:
+Topics include:
 
-- How long should workouts be?
-- How many days should I train?
-- Should I lift weights or do cardio?
+- Workout structure
+- Strength training
+- Cardio training
+- Exercise basics
 
-Related topics:
+Related pages:
 
+- [[Workout Basics]]
 - [[Strength Training]]
 - [[Cardio Training]]
 
+---
+
 ### Nutrition
 
-Questions about fueling my body.
+Questions about food and fueling my body.
 
-Examples:
+Topics include:
 
-- What should I eat before workouts?
-- How much protein do I need?
-- Do supplements matter?
+- Eating for fitness
+- Protein
+- Macronutrients
+- Supplements
 
-Related topic:
+Related pages:
 
 - [[Nutrition]]
+- [[Macronutrients]]
+- [[Supplements]]
+
+---
 
 ### Recovery
 
-Questions about rest and allowing my body to improve.
+Questions about rest and taking care of my body.
 
-Examples:
+Topics include:
 
-- Why am I sore?
-- How much rest do I need?
-- How important is sleep?
+- Rest days
+- Muscle soreness
+- Sleep
+- Recovery habits
 
-Related topics:
+Related pages:
 
 - [[Recovery]]
 - [[Injury Prevention]]
 
+---
+
 ### Equipment
 
-Questions about choosing and using fitness equipment.
+Questions about fitness tools and training setups.
 
-Examples:
+Topics include:
 
-- What equipment should I buy?
-- Do I need a gym membership?
-- What equipment is useful for beginners?
+- What equipment I need
+- Home workouts
+- Choosing gear
 
-Related topic:
+Related pages:
 
 - [[Equipment Guide]]
+- [[Home Setup]]
 
-## My Approach To Fitness Questions
+## Beginner Questions I Am Learning
 
-As I continue learning, I want to remember:
+Some questions I may have when starting:
 
-- There is always more to learn
-- Simple answers are usually a good place to start
-- What works for one person may not work for another
-- Consistency matters more than perfection
+- Where do I begin?
+- How often should I work out?
+- What exercises should I do?
+- What should I eat?
+- Do I need equipment?
+- How do I stay consistent?
 
-Fitness is a long process of learning and adjusting.
+The answers become easier as I learn the basics.
 
-## Keep Learning
+## Keep Exploring
 
 Related folders:
 
@@ -129,6 +138,6 @@ Related folders:
 
 ## What I'm Taking Away
 
-The FAQ section is not meant to replace the deeper knowledge in Fitiq.
+Questions are part of learning.
 
-It is a quick starting point that helps me find answers and continue learning as I build my fitness habits.
+The more I understand the basics, the easier it becomes to make better decisions and build confidence in my fitness journey.
