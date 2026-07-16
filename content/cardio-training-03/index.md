@@ -3,70 +3,162 @@ title: Cardio Training
 ---
 # Cardio Training
 
-> Notes from getting back into cardio and learning how to improve endurance without feeling overwhelmed.
+> Learning how to improve my endurance, understand different types of cardio, and build better conditioning over time.
 
-When I first started getting back into fitness, cardio was one of the things I dreaded the most. I used to think cardio meant running for miles or spending an hour on a treadmill, but I've learned that's only one way to do it.
+When I started getting back into fitness, cardio was one of the areas I did not fully understand.
 
-Cardio is simply any activity that raises your heart rate and keeps your body moving. It can be as simple as walking around the neighborhood or as challenging as sprint intervals.
+I used to think cardio was just about running until I was tired.
 
-The goal isn't to become exhausted every workout. It's to improve your cardiovascular fitness over time while finding activities you actually enjoy.
+I'm learning that cardio is much more than that.
+
+It is about improving how my body uses energy, building endurance, and supporting my overall fitness.
+
+## What Is Cardio Training?
+
+Cardio training is any type of exercise that challenges my cardiovascular system.
+
+This includes my:
+
+- Heart
+- Lungs
+- Circulation
+- Muscles' ability to use energy
+
+Cardio can range from low-intensity activities like walking to higher-intensity workouts like intervals.
 
 ## Why Cardio Matters
 
-Regular cardio can help:
+Cardio training can help improve:
 
-- Improve heart health
-- Increase endurance
-- Boost energy levels
-- Support weight management
-- Reduce stress
-- Improve recovery between workouts
-- Make everyday activities feel easier
+- Endurance
+- Heart health
+- Energy levels
+- Recovery between workouts
+- Daily activities
 
-Like strength training, consistency is more important than doing everything perfectly.
+It can also support other areas of fitness, including strength training.
 
-## Getting Started
+Related topics:
 
-If you're returning to fitness, start slower than you think you need to.
+- [[Strength Training]]
+- [[Nutrition]]
 
-A few things I'm reminding myself:
+## What I'm Learning
 
-- Walking counts.
-- Every workout doesn't need to be intense.
-- Progress takes time.
-- Rest is part of the process.
-- It's okay to build endurance gradually.
+When getting back into cardio, I am focusing on:
 
-## What You'll Find Here
+- Building consistency
+- Improving endurance slowly
+- Finding activities I enjoy
+- Avoiding doing too much too soon
 
-### [[cardio-training-03/Basics]]
+I do not need to start with intense workouts.
 
-Learn the core concepts of cardio, different intensity levels, and how cardio benefits your body.
+Building a foundation comes first.
 
-### [[Cardio Types]]
+## Different Ways To Train Cardio
 
-Explore different forms of cardio so you can find activities you actually enjoy.
+Cardio can look different depending on my goals.
 
-### [[Endurance]]
+Examples:
 
-Learn how endurance improves over time and how to build it without burning yourself out.
+- Walking
+- Running
+- Cycling
+- Swimming
+- Rowing
+- Sports
+- Interval training
 
-### [[Training Plans]]
+There is no single "best" form of cardio.
 
-Simple ideas for creating a cardio routine that fits your schedule and goals.
+The best option is one I can consistently do.
 
-### [[Common Mistakes]]
+## What You Will Find Here
 
-Things I'm learning to avoid while building better cardio habits.
+### Basics
 
-## Final Thoughts
+Understanding what cardio is and how it affects my body.
 
-The best cardio workout is the one you'll actually keep doing.
+Topics include:
 
-I'm trying to focus less on how hard every workout feels and more on building a routine that I can stick with for months instead of days.
+- Heart rate
+- Intensity
+- Recovery
+- Cardio benefits
 
-You may also find these helpful:
+### Types
 
-- [[strength-training-02/index|Strength Training]]
-- [[cardio-training-03/index|Cardio Training]]
-- [[beginner-workouts-01/index|Beginner Workouts]]
+Learning about different forms of cardio.
+
+Topics include:
+
+- Walking
+- Running
+- Cycling
+- Swimming
+- Machines
+- Sports
+
+### Training Methods
+
+Learning different ways to structure cardio workouts.
+
+Topics include:
+
+- Steady-state cardio
+- Intervals
+- Zone training
+- HIIT
+
+### Endurance
+
+Learning how to improve stamina over time.
+
+Topics include:
+
+- Building distance
+- Increasing workout duration
+- Improving conditioning
+
+### Progress
+
+Learning how to measure improvements.
+
+Topics include:
+
+- Tracking workouts
+- Improving pace
+- Increasing distance
+- Building consistency
+
+## Cardio And The Rest Of Fitiq
+
+Cardio connects with many other parts of fitness.
+
+Related topics:
+
+- [[Strength Training]]
+- [[Nutrition]]
+- [[Injury Prevention]]
+- [[Equipment Guide]]
+
+Improving fitness is not about choosing one type of training.
+
+A balanced approach usually includes different forms of movement.
+
+## Keep Learning
+
+Related pages:
+
+- [[cardio-training-03/Basics]]
+- [[Types]]
+- [[Training Methods]]
+- [[Endurance]]
+- [[Progress]]
+
+## What I'm Taking Away
+
+Cardio is not just about burning calories or getting tired.
+
+It is about improving my body's ability to perform, recover, and handle everyday activities better.

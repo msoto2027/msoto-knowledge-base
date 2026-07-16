@@ -22,10 +22,10 @@ Consistency is way more important than intensity. I’d rather do 30 minutes thr
 
 ## Continue Learning
   
-1. [[Tracking Your Progress]]
+1. [[Tracking Progress]]
 2. [[Staying Motivated]]
 3. [[beginner-workouts-01/Getting Started]]
-4. [[Creating Your First Routine]]
+4. [[Creating First Routine]]
 ## Helpful pages
 
 - [[injury-prevention-05/index|Injury Prevention]] – so I don’t get hurt again

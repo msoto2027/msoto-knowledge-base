@@ -3,93 +3,139 @@ title: Strength Training
 ---
 # Strength Training
 
-> Strength training is about getting stronger, building confidence, and learning how your body moves.
+> Learning how to build strength, understand resistance training, and create workouts that help me improve over time.
 
-Whether you are brand new to working out, getting back into fitness, or already have experience, strength training is one of the best ways to improve your overall fitness.
+When I started getting back into fitness, strength training was one of the areas I wanted to understand better.
 
-You don't need to start by lifting heavy or doing complicated workouts. The most important things are learning the basics, staying consistent, and improving over time.
+At first, it seemed simple:
 
----
+Lift weights → get stronger.
+
+But I'm learning there is much more to it.
+
+Strength training involves learning how my body moves, how to train effectively, and how to slowly improve over time.
 
 ## What Is Strength Training?
 
-Strength training is a type of exercise that uses resistance to challenge your muscles.
+Strength training is a type of exercise where I use resistance to challenge my muscles.
 
-This resistance can come from:
+That resistance can come from:
 
-- Bodyweight exercises
-- Dumbbells
-- Barbells
-- Weight machines
+- Free weights
+- Machines
 - Resistance bands
+- Bodyweight exercises
 
-When you train consistently, your body adapts by becoming stronger and more capable.
-
----
+The goal is to make my body adapt and become stronger over time.
 
 ## Why Strength Training Matters
 
-Strength training can help you:
+Strength training can help improve:
 
-- Build and maintain muscle
-- Increase strength
-- Improve confidence
-- Support healthy joints and bones
-- Move better in everyday life
-- Improve athletic performance
-- Make daily activities easier
+- Muscle strength
+- Muscle size
+- Bone health
+- Balance
+- Daily movement
+- Confidence
 
-Strength training is not just about appearance. It helps you build a stronger body that can support your goals and lifestyle.
+It is useful for beginners, experienced athletes, and anyone looking to improve their overall fitness.
 
----
+## What I'm Learning
 
-## Getting Started
+When getting back into training, I'm focusing on:
 
-If you are new to strength training or coming back after a break, focus on building a strong foundation.
+- Learning proper movement
+- Building consistency
+- Understanding exercises
+- Improving gradually
+- Avoiding rushing progress
 
-Start by:
+I don't need to start with the hardest workouts.
 
-- Learning basic movements
-- Using weights you can control
-- Practicing proper form
-- Following a simple routine
-- Increasing difficulty slowly
+Building a strong foundation comes first.
 
-The goal is not to do everything at once. The goal is to create habits you can maintain.
+## What You Will Find Here
 
----
+### Basics
 
-## What You Will Learn
+Understanding the foundations of strength training.
 
-This section covers the key parts of strength training:
+Topics include:
 
-### [[strength-training-02/Basics]]
-Learn how strength training works, different training styles, and the important concepts behind building strength.
+- Sets and reps
+- Resistance
+- Training intensity
+- Progressive overload
 
-### [[Form & Technique]]
-Learn how to perform exercises correctly, avoid unnecessary strain, and get more out of each movement.
+### Form & Technique
 
-### [[Programs & Routines]]
-Learn how workouts are structured and how to create a routine that fits your goals and schedule.
+Learning how to perform exercises safely and effectively.
 
-### [[Strength Progress]]
-Learn how to improve over time, track results, and continue challenging yourself.
+Topics include:
 
-### [[Common Mistakes]]
-Learn what mistakes can slow down progress and how to avoid them.
+- Proper movement
+- Breathing
+- Control
+- Common mistakes
 
----
+### Exercises
 
-## Keep In Mind
+Learning individual exercises and how they work.
 
-Strength training is a journey. Everyone starts at a different level, and progress takes time.
+Topics include:
 
-Focus on:
+- Squat movements
+- Pressing movements
+- Pulling movements
+- Core exercises
 
-- Being consistent
-- Improving little by little
-- Learning as you go
-- Listening to your body
-- Enjoying the process
+### Programs
 
-A stronger body is built through small improvements repeated over time.
+Learning how workouts are structured.
+
+Topics include:
+
+- Full body workouts
+- Training splits
+- Creating routines
+- Choosing exercises
+
+### Progress
+
+Learning how to measure improvement.
+
+Topics include:
+
+- Increasing strength
+- Tracking workouts
+- Overcoming plateaus
+
+## Strength Training And The Rest Of Fitiq
+
+Strength training connects with many other areas of fitness.
+
+Related topics:
+
+- [[Beginner Workouts]]
+- [[Nutrition]]
+- [[Injury Prevention]]
+- [[Equipment Guide]]
+
+Building strength is not only about workouts. It also depends on recovery, nutrition, and consistency.
+
+## Keep Learning
+
+Related pages:
+
+- [[strength-training-02/Basics]]
+- [[Form & Technique]]
+- [[Exercises]]
+- [[Programs]]
+- [[Progress]]
+
+## What I'm Taking Away
+
+Strength training is not just about lifting heavier weights.
+
+It is about learning how my body works, building good habits, and improving little by little over time.

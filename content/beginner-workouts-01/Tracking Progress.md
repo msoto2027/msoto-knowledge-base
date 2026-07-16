@@ -38,7 +38,7 @@ Without tracking, it feels like nothing is happening—even when it is. Seeing p
 
 1. [[Staying Motivated]]
 2. [[beginner-workouts-01/Getting Started]]
-3. [[Creating Your First Routine]]
+3. [[Creating First Routine]]
 4. [[Beginner Mistakes to Avoid]]
 ### Related pages
 

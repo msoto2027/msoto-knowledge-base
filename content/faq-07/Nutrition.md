@@ -3,184 +3,217 @@ title: Nutrition
 ---
 # Nutrition
 
-> Questions I'm learning the answers to while figuring out how food supports my workouts and overall health.
+> Quick answers to common questions about food, fueling workouts, and supporting my fitness goals.
 
-Nutrition is probably one of the most confusing parts of fitness.
+When I started getting back into fitness, nutrition felt complicated.
 
-There are so many different opinions about what to eat, what to avoid, and what will give the best results.
+There are so many opinions about what to eat, what not to eat, and what is "perfect."
 
-I'm learning that the basics usually matter the most.
+I'm learning that the basics matter most.
 
-Eating enough nutrients, staying consistent, and finding an approach I can maintain are the biggest things I am focusing on.
+Good nutrition is about creating habits that support my goals and lifestyle.
 
-## How Much Protein Do I Need?
+## Do I Need A Perfect Diet To Make Progress?
 
-Protein is one of the most important nutrients when it comes to supporting muscle growth and recovery.
+No.
 
-The amount I need depends on:
+A perfect diet is not required.
 
-- My body size
-- My goals
-- My activity level
-- My overall diet
+What matters most is building consistent habits like:
 
-Instead of stressing over exact numbers right away, I'm focusing on including a good source of protein in most meals.
+- Eating balanced meals
+- Getting enough protein
+- Staying hydrated
+- Eating enough to support my goals
 
-Examples:
+Small improvements add up over time.
 
-- Chicken
-- Fish
-- Eggs
-- Greek yogurt
-- Lean meats
-- Beans
-- Tofu
+Related topic:
 
-Related topics:
+- [[Nutrition]]
 
-- [[Calories & Macros]]
-- [[Strength Training]]
+## How Important Is Protein?
 
-## Do I Need To Count Calories?
+Protein helps support muscle repair and recovery.
 
-Not always.
+It is especially important when:
 
-Tracking calories can be useful because it helps me understand my eating habits, but it is not required for everyone.
+- Strength training
+- Building muscle
+- Recovering from workouts
 
-Some people prefer tracking because they enjoy the structure.
+I do not need to obsess over exact numbers at the beginning.
+
+A good starting point is making sure I include protein regularly throughout the day.
+
+Related topic:
+
+- [[Protein]]
+
+## Should I Track Calories?
+
+Tracking calories is one tool, but it is not required for everyone.
+
+Some people track because it helps them understand:
+
+- How much they are eating
+- Their progress toward goals
+- Their eating habits
 
 Others prefer focusing on:
 
 - Balanced meals
 - Portion awareness
-- Eating more whole foods
 - Consistent habits
 
-The best approach is the one I can realistically follow.
+The best approach is the one I can maintain.
 
-Related topics:
+## What Should I Eat Before A Workout?
 
-- [[nutrition-04/Basics]]
-- [[Fitness Goals]]
-
-## Are Carbohydrates Bad?
-
-No.
-
-Carbohydrates are an important source of energy, especially when training.
-
-They can help support:
-
-- Workout performance
-- Daily energy
-- Recovery
-
-Good sources of carbohydrates include:
-
-- Rice
-- Potatoes
-- Oats
-- Fruit
-- Pasta
-- Whole grains
-
-I'm learning that most foods are not simply "good" or "bad." It depends on how they fit into my overall nutrition.
-
-Related topics:
-
-- [[Calories & Macros]]
-- [[Cardio Training]]
-
-## Do I Need Supplements?
-
-Supplements are not required to make progress.
-
-Most of my results will come from:
-
-- Consistent training
-- Balanced nutrition
-- Proper recovery
-- Enough protein
-
-Some supplements can be useful depending on goals, but they should support a good foundation, not replace it.
-
-Related topics:
-
-- [[Nutrition]]
-- [[Strength Training]]
-
-## Should I Eat Before A Workout?
-
-It depends on the person and the workout.
-
-Some people feel better eating before training, while others prefer working out without food beforehand.
-
-A pre-workout meal or snack may help provide energy.
+A pre-workout meal or snack can help provide energy.
 
 Examples:
 
 - Fruit
 - Oatmeal
 - Yogurt
-- A balanced meal a few hours before training
+- A balanced meal with carbohydrates and protein
 
-I'm learning to pay attention to how my body feels during workouts.
+The best choice depends on:
 
-Related topics:
-
-- [[Meal Planning]]
-- [[Cardio Training]]
+- Workout timing
+- Personal preference
+- How my body feels
 
 ## What Should I Eat After A Workout?
 
 After training, my body needs nutrients to recover.
 
-A good post-workout meal usually includes:
+A balanced meal can include:
 
-- Protein for muscle repair
-- Carbohydrates for energy recovery
-- Fluids for hydration
+- Protein
+- Carbohydrates
+- Healthy fats
 
-It does not have to be a special "fitness meal." A normal balanced meal can work.
+Examples:
 
-Related topics:
+- Chicken with rice
+- Eggs with toast
+- Yogurt with fruit
+
+The goal is supporting recovery, not finding one perfect food.
+
+Related topic:
 
 - [[Recovery]]
-- [[Calories & Macros]]
 
-## Do I Need A Perfect Diet To See Results?
+## How Much Water Should I Drink?
 
-No.
+Hydration supports:
 
-A perfect diet is difficult to maintain and usually isn't necessary.
+- Energy
+- Performance
+- Recovery
 
-Progress comes from what I do consistently.
+My needs can change depending on:
 
-Things that matter:
+- Activity level
+- Weather
+- Workout intensity
+- Sweating
 
-- Eating enough protein
-- Staying hydrated
+A simple habit is drinking water consistently throughout the day.
+
+## Do I Need Supplements?
+
+Supplements are not required to improve fitness.
+
+The foundation comes from:
+
+- Training consistently
+- Eating balanced meals
+- Getting enough sleep
+
+Supplements can be useful for some people, but they are not a replacement for good habits.
+
+## Should I Eat More If I Start Working Out?
+
+It depends on my goals.
+
+Training can change how much energy my body needs.
+
+Factors include:
+
+- Workout frequency
+- Goals
+- Activity level
+- Current eating habits
+
+The goal is supporting my training, not randomly eating more or less.
+
+## Can I Still Eat Foods I Enjoy?
+
+Yes.
+
+A sustainable approach includes flexibility.
+
+A healthy relationship with food means:
+
+- Enjoying meals
 - Making balanced choices
-- Enjoying food without guilt
-- Building sustainable habits
+- Avoiding extreme rules
+
+Consistency matters more than being perfect.
+
+## Why Am I Not Seeing Results Even Though I Work Out?
+
+Progress depends on more than workouts.
+
+Other factors include:
+
+- Nutrition
+- Recovery
+- Consistency
+- Sleep
+- Training quality
+
+Fitness is a combination of habits working together.
 
 Related topics:
 
-- [[Healthy Habits]]
-- [[Fitness Goals]]
+- [[Progress]]
+- [[Recovery]]
+
+## Should I Eat The Same Every Day?
+
+Not necessarily.
+
+A balanced diet can include variety.
+
+Different foods provide different:
+
+- Nutrients
+- Flavors
+- Benefits
+
+Finding meals I enjoy makes healthy habits easier to maintain.
 
 ## Keep Learning
 
 Related pages:
 
+- [[Workouts]]
+- [[Recovery]]
+- [[Equipment]]
+
+Related folders:
+
 - [[Nutrition]]
-- [[Calories & Macros]]
-- [[Meal Planning]]
-- [[Fitness Goals]]
 - [[Strength Training]]
+- [[Cardio Training]]
 
 ## What I'm Taking Away
 
-Nutrition does not have to be extreme or complicated.
+Nutrition does not need to be complicated.
 
-The biggest improvements usually come from mastering the basics and building habits I can maintain long term.
+The goal is building simple habits that help me feel better, train better, and support my long-term progress.

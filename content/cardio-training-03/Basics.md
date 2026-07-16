@@ -3,80 +3,198 @@ title: Basics
 ---
 # Cardio Basics
 
-> Understanding how cardio works has helped me stop thinking that every workout needs to leave me exhausted.
+> Learning the foundation of cardio training so I understand how it works and how to train smarter.
 
-One of the biggest things I've learned is that cardio isn't about making yourself suffer. It's about improving how efficiently your heart, lungs, and muscles work together.
+When I first started looking into cardio, I thought the main goal was just to get tired and burn calories.
 
-## What Is Cardio?
+I'm learning that cardio is more about improving how my body performs.
 
-Cardio, short for cardiovascular exercise, is any activity that increases your heart rate for a period of time.
+Understanding the basics helps me choose better workouts and avoid doing too much too soon.
 
-Some examples include:
+## What Is Cardio Training?
+
+Cardio training is exercise that challenges my cardiovascular system.
+
+It improves my body's ability to:
+
+- Deliver oxygen
+- Use energy efficiently
+- Support longer periods of activity
+- Recover after exercise
+
+Cardio can include many different activities as long as they increase the demand on my body.
+
+## Aerobic vs Anaerobic Training
+
+Two common ways to think about cardio are aerobic and anaerobic training.
+
+## Aerobic Training
+
+Aerobic means my body is primarily using oxygen to produce energy.
+
+Examples:
 
 - Walking
 - Jogging
-- Running
 - Cycling
 - Swimming
-- Rowing
-- Hiking
-- Dancing
 
-There isn't one "best" type of cardio. The best one is usually the one you enjoy enough to keep doing.
+This type of training is commonly used for improving endurance.
 
-## Intensity
+## Anaerobic Training
 
-Not every cardio workout needs to feel the same.
+Anaerobic training involves shorter, more intense efforts where my body needs energy quickly.
+
+Examples:
+
+- Sprinting
+- Hard intervals
+- High-intensity efforts
+
+This type of training can improve power and high-intensity performance.
+
+Both types can be useful depending on my goals.
+
+## Understanding Intensity
+
+Intensity is how hard my body is working during exercise.
+
+Cardio intensity can be affected by:
+
+- Speed
+- Resistance
+- Incline
+- Duration
+- Recovery time
+
+A workout does not always need to be intense to be effective.
+
+## Heart Rate Basics
+
+Heart rate can be one way to understand workout intensity.
+
+A higher heart rate usually means my body is working harder.
+
+Factors that affect heart rate include:
+
+- Fitness level
+- Temperature
+- Stress
+- Sleep
+- Hydration
+
+Heart rate is useful information, but it is not the only way to measure effort.
+
+## Low, Moderate, And High Intensity
 
 ### Low Intensity
 
-Easy to hold a conversation.
+Usually feels comfortable and sustainable.
 
 Examples:
 
 - Walking
 - Easy cycling
-- Casual swimming
+
+Useful for:
+
+- Building consistency
+- Recovery
+- Beginners
 
 ### Moderate Intensity
 
-Breathing becomes heavier, but you can still talk in short sentences.
+Requires more effort but can still be maintained.
 
 Examples:
 
 - Brisk walking
-- Easy jogging
-- Hiking
+- Steady jogging
+
+Useful for:
+
+- Improving endurance
+- Building fitness
 
 ### High Intensity
 
-Talking becomes difficult because you're breathing hard.
+Requires harder effort and more recovery.
 
 Examples:
 
-- Sprint intervals
-- Hill sprints
-- HIIT workouts
+- Sprints
+- Hard intervals
 
-I've learned that most workouts don't need to be high intensity to be effective.
+Useful for:
 
-## Duration
+- Improving performance
+- Challenging conditioning
 
-Longer isn't always better.
+## How Much Cardio Should I Do?
 
-A shorter workout done consistently is usually more beneficial than occasionally doing a very long one.
+The right amount depends on:
 
-## Recovery
+- My goals
+- Current fitness level
+- Recovery
+- Schedule
 
-Recovery applies to cardio too.
+When getting back into fitness, I want to focus on consistency before increasing difficulty.
 
-Taking easier days helps my body adapt and keeps me from feeling burned out.
+A smaller amount of cardio done regularly is better than doing too much and stopping.
 
-## Continue Learning
+## Cardio And Strength Training
+
+Cardio and strength training can work together.
+
+Strength training can help improve:
+
+- Muscle strength
+- Stability
+- Movement ability
+
+Cardio can help improve:
+
+- Endurance
+- Recovery
+- Overall conditioning
+
+A balanced routine can include both.
 
 Related topics:
 
-- [[Cardio Types]]
+- [[Strength Training]]
+- [[Beginner Workouts]]
+
+## Common Beginner Mistakes
+
+Things I want to avoid:
+
+- Starting too intensely
+- Thinking more is always better
+- Ignoring recovery
+- Choosing workouts I dislike
+- Comparing my pace to others
+
+Building endurance takes time.
+
+## Keep Learning
+
+Related pages:
+
+- [[Types]]
+- [[Training Methods]]
 - [[Endurance]]
-- [[Training Plans]]
-- [[Common Mistakes]]
+- [[Progress]]
+
+Related folders:
+
+- [[Strength Training]]
+- [[Injury Prevention]]
+- [[Equipment Guide]]
+
+## What I'm Taking Away
+
+Cardio training is about improving my body's ability to perform and recover.
+
+I do not need to destroy myself during every workout. Consistent training and gradual improvement matter more.

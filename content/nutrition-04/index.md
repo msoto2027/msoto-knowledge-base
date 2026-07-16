@@ -3,66 +3,164 @@ title: Nutrition
 ---
 # Nutrition
 
-> I'm learning that nutrition doesn't have to be complicated. The goal isn't eating perfectly, it's building habits that support my workouts and everyday life.
+> Learning how food supports my workouts, recovery, and everyday health.
 
-When I started getting back into fitness, I realized I spent so much time thinking about workouts that I almost ignored nutrition.
+When I started getting back into fitness, nutrition was one of the areas that felt the most overwhelming.
 
-The more I learn, the more I realize that food is what supports everything else. It gives me energy to train, helps me recover, and plays a huge role in reaching my fitness goals.
+There was a lot of information about what I should eat, what foods were "good" or "bad," and what changes I needed to make.
 
-I'm not trying to follow a perfect diet. I'm trying to build habits that I can actually maintain.
+I'm learning that nutrition does not have to be complicated.
+
+The basics are where I want to start:
+
+- Eating enough food to support my goals
+- Understanding what nutrients do
+- Building better habits
+- Finding an approach I can maintain
 
 ## Why Nutrition Matters
 
-Good nutrition can help:
+Food gives my body the energy and nutrients needed to:
 
-- Support workouts
-- Improve recovery
-- Build muscle
-- Maintain energy
-- Support overall health
-- Make it easier to reach fitness goals
+- Complete workouts
+- Recover properly
+- Support daily activities
+- Improve overall health
 
-Nutrition doesn't have to be all or nothing. Small improvements made consistently can have a big impact over time.
+Training challenges my body, but nutrition helps support the changes I am working toward.
 
-## Getting Started
+Related topics:
 
-A few things I'm focusing on:
+- [[Recovery]]
+- [[Strength Training]]
 
-- Eating balanced meals
-- Drinking enough water
-- Getting enough protein
-- Avoiding extreme diets
-- Being consistent instead of perfect
+## My Approach To Nutrition
 
-There are plenty of different ways to eat well. I'm trying to find an approach that fits my lifestyle.
+I am not trying to find a perfect diet.
 
-## What You'll Find Here
+I am learning how to make better decisions over time.
 
-### [[nutrition-04/Basics]]
+Things I am focusing on:
 
-Learn the core ideas behind healthy eating and how nutrition supports fitness.
+- Understanding the basics
+- Creating balanced meals
+- Learning what works for me
+- Building consistency
 
-### [[Calories & Macros]]
+Small improvements are easier to maintain than extreme changes.
 
-Understand calories, protein, carbohydrates, and fats without making them overly complicated.
+## Nutrition And Fitness Goals
 
-### [[Meal Planning]]
+Nutrition can support different goals.
 
-Simple ideas for planning meals that fit a busy schedule.
+### Building Strength
 
-### [[Fitness Goals]]
+Nutrition can help support:
 
-How nutrition can change depending on whether I'm trying to lose weight, build muscle, or maintain my current weight.
+- Muscle growth
+- Recovery
+- Training performance
 
-### [[Healthy Habits]]
+Related topic:
 
-Long-term habits that make healthy eating easier and more sustainable.
+- [[Strength Training]]
+
+### Improving Endurance
+
+Nutrition can help support:
+
+- Energy levels
+- Longer workouts
+- Recovery
+
+Related topic:
+
+- [[Cardio Training]]
+
+### General Health
+
+Nutrition can support:
+
+- Daily energy
+- Healthy habits
+- Overall wellness
+
+## What You Will Find Here
+
+### Basics
+
+Learning the foundation of nutrition.
+
+Topics include:
+
+- Calories
+- Energy balance
+- Building healthy habits
+- Understanding nutrition goals
+
+### Macronutrients
+
+Learning about the main nutrients that provide energy and support the body.
+
+Topics include:
+
+- Protein
+- Carbohydrates
+- Fats
+
+### Meal Planning
+
+Learning how to make nutrition easier in everyday life.
+
+Topics include:
+
+- Creating balanced meals
+- Planning ahead
+- Eating around workouts
+
+### Supplements
+
+Learning what supplements are and how they fit into nutrition.
+
+Topics include:
+
+- Common supplements
+- When they may be useful
+- Understanding expectations
+
+### Nutrition Progress
+
+Learning how to measure improvement beyond just the scale.
+
+Topics include:
+
+- Tracking habits
+- Making adjustments
+- Staying consistent
+
+## Common Beginner Nutrition Mistakes
+
+Things I want to avoid:
+
+- Changing everything at once
+- Following extreme diets
+- Overthinking every meal
+- Ignoring consistency
+- Expecting instant results
+
+Nutrition is a skill I build over time.
 
 ## Keep Learning
 
-Nutrition works best alongside:
+Related folders:
 
-- [[strength-training-02/index|Strength Training]]
-- [[cardio-training-03/index|Cardio Training]]
-- [[beginner-workouts-01/index|Beginner Workouts]]
-- [[injury-prevention-05/index|Injury Prevention]]
+- [[Strength Training]]
+- [[Cardio Training]]
+- [[Beginner Workouts]]
+- [[Injury Prevention]]
+
+## What I'm Taking Away
+
+Nutrition is not about being perfect.
+
+It is about learning how food affects my body, making better choices, and creating habits that support my fitness journey.

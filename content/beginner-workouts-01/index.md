@@ -12,9 +12,9 @@ Remember that exercise is only one part of a healthy lifestyle. Consistent physi
 ## Pages
 
 - ### [[Getting Started]]
-- ### [[Creating Your First Routine]]
+- ### [[Creating First Routine]]
 - ### [[Beginner Mistakes to Avoid]]
-- ### [[Tracking Your Progress]]
+- ### [[Tracking Progress]]
 - ### [[Staying Motivated]]
 
 ## Related Categories
