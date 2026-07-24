@@ -1,172 +1,63 @@
 ---
 title: Basics
 ---
-# Strength Training Basics
-
 # Basics
 
-> Learning the foundation of strength training so I understand what I am doing instead of just copying workouts.
-
-When I first started looking into lifting, I realized there were a lot of terms I didn't fully understand.
-
-Sets, reps, weight, volume, intensity, progression.
-
-At first, it felt complicated, but these basics are what help me understand how workouts are built.
-
-## What Is Resistance Training?
-
-Resistance training is when I challenge my muscles against some type of resistance.
+Strength training is the practice of making your muscles stronger by challenging them with resistance.
 
 That resistance can come from:
 
-- Dumbbells
-- Barbells
+- Free weights
 - Machines
 - Resistance bands
-- Bodyweight exercises
+- Your own body weight
 
-The goal is to create enough challenge that my body adapts and becomes stronger over time.
+For me, strength training isn't just about looking better—it's about becoming healthier, feeling stronger, and building confidence.
 
-## Sets And Reps
+## Benefits of Strength Training
 
-Two of the most common terms in strength training are sets and reps.
+Regular strength training can help you:
 
-### Reps
+- Build muscle
+- Increase strength
+- Improve posture
+- Strengthen bones
+- Burn calories
+- Improve balance
+- Reduce the risk of injury
 
-A rep (repetition) is one complete movement of an exercise.
+Even a few workouts each week can make a noticeable difference over time.
 
-Example:
+## The Key Principles
 
-One squat from standing, down, and back up equals one rep.
+### Consistency
 
-### Sets
+Showing up regularly matters more than having the perfect workout.
 
-A set is a group of reps performed together.
+### Progressive Overload
 
-Example:
+To get stronger, your muscles need a reason to adapt.
 
-Doing 10 squats, resting, then doing another 10 squats means I completed two sets.
-
-Workouts are usually written like:
-
-```
-3 sets x 10 reps
-```
-
-This means:
-
-- Perform 10 repetitions
-- Rest
-- Repeat for a total of 3 sets
-
-## Choosing The Right Weight
-
-Choosing the right weight is something I am still learning.
-
-The weight should be challenging while allowing me to keep good form.
-
-A good weight allows me to:
-
-- Complete the exercise correctly
-- Control the movement
-- Finish my planned reps
-- Feel challenged near the end
-
-A heavier weight is not always better if my technique starts breaking down.
-
-Related topic:
-
-- [[Form & Technique]]
-
-## Understanding Training Intensity
-
-Intensity refers to how challenging an exercise or workout feels.
-
-A workout can feel intense because of:
-
-- The amount of weight used
-- The number of repetitions
-- The amount of rest between sets
-- How close I train to my limits
-
-I'm learning that intensity should be managed, not maxed out every workout.
-
-## Progressive Overload
-
-Progressive overload is one of the biggest ideas in strength training.
-
-It means gradually increasing the challenge over time.
-
-This can happen by:
+That might mean:
 
 - Adding more weight
-- Doing more repetitions
-- Improving technique
-- Increasing training volume
-- Reducing rest time
+- Doing more reps
+- Improving your form
+- Completing an extra set
 
-Progress does not always mean lifting heavier.
+Small improvements over time lead to big results.
 
-Small improvements still count.
+### Recovery
 
-## Training Volume
+Your muscles don't grow while you're lifting—they grow while you recover.
 
-Volume is the amount of work I complete during training.
+Sleep, nutrition, and rest days are just as important as your workouts.
 
-It can include:
+Learn more in [[Nutrition-04/Basics|Nutrition]] and [[Injury-prevention-05/Recovery|Recovery]].
 
-- Number of exercises
-- Sets completed
-- Repetitions performed
-- Weight used
+## Related Pages
 
-Increasing volume over time can help support progress, but more is not always better.
-
-Recovery still matters.
-
-Related topic:
-
-- [[Recovery]]
-
-## Rest Between Sets
-
-Rest time can depend on the exercise and goal.
-
-Shorter rest periods may feel more challenging.
-
-Longer rest periods may allow better performance on heavier exercises.
-
-I'm learning to rest enough so I can perform the next set properly.
-
-## Common Beginner Mistakes
-
-Things I want to avoid:
-
-- Increasing weight too quickly
-- Ignoring technique
-- Changing workouts constantly
-- Trying to copy advanced lifters
-- Thinking soreness equals progress
-
-Building a strong foundation matters more than rushing.
-
-## Keep Learning
-
-Related pages:
-
-- [[Form & Technique]]
 - [[Exercises]]
+- [[Form & Technique]]
 - [[Programs]]
 - [[Progress]]
-
-Related folders:
-
-- [[Beginner Workouts]]
-- [[Nutrition]]
-- [[Injury Prevention]]
-
-## What I'm Taking Away
-
-Strength training becomes much easier to understand when I focus on the basics.
-
-I don't need complicated workouts. I need to understand how to train consistently and improve over time.

@@ -3,182 +3,42 @@ title: Healthy Habits
 ---
 # Nutrition Progress
 
-> Learning how to track my nutrition habits and make adjustments that support my fitness journey.
+Improving your nutrition is a journey, just like improving your fitness.
 
-When I started focusing on nutrition, I thought progress was only about changing my weight.
+Small, consistent changes often lead to the biggest results.
 
-I'm learning that nutrition progress can be measured in many ways.
+## Signs of Progress
 
-Improvement can also mean:
+Progress isn't just about the number on the scale.
 
-- Better energy
-- More consistent habits
-- Improved workouts
-- Better understanding of food choices
+You might notice:
 
-## What Is Nutrition Progress?
+- More energy throughout the day
+- Better workout performance
+- Faster recovery
+- Feeling fuller after meals
+- Building healthier habits
+- Feeling more confident with your food choices
 
-Nutrition progress is about improving the habits that support my goals.
+These are all wins worth celebrating.
 
-This can include:
+## Avoid Perfection
 
-- Eating more balanced meals
-- Staying consistent
-- Learning what foods work well for me
-- Adjusting when needed
+No one eats perfectly every day.
 
-Progress is not always obvious right away.
+It's okay to enjoy treats, eat out with friends, or have days where things don't go according to plan.
 
-## Different Ways To Measure Progress
-
-Nutrition progress can be tracked through:
-
-### Energy Levels
-
-I can pay attention to:
-
-- How I feel during workouts
-- Daily energy
-- Recovery after training
-
-Better nutrition can help support how I feel.
-
-### Workout Performance
-
-Nutrition can affect:
-
-- Strength
-- Endurance
-- Recovery
-
-Related topics:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-
-### Consistency
-
-One of the biggest signs of progress is building habits.
-
-Examples:
-
-- Preparing meals more often
-- Drinking more water
-- Eating enough protein
-- Planning ahead
-
-Small habits create long-term changes.
-
-## Tracking Food
-
-Tracking food can be useful for some people.
-
-Ways to track include:
-
-- Writing down meals
-- Tracking calories
-- Tracking macronutrients
-- Taking notes about habits
-
-Tracking is a tool, not a requirement.
-
-The best method is the one I can use consistently.
-
-## Adjusting Nutrition Over Time
-
-My nutrition needs may change as I progress.
-
-Things that can affect my needs:
-
-- Training changes
-- Activity level
-- Goals
-- Lifestyle
-
-Learning to adjust is part of improving.
-
-## Avoiding All-Or-Nothing Thinking
-
-A common mistake is thinking nutrition has to be perfect.
-
-I'm learning that:
-
-- One meal does not define my progress
-- Missing a plan does not erase results
-- Small improvements matter
-
-Consistency is more important than perfection.
-
-## Building Long-Term Habits
-
-Helpful habits include:
-
-- Eating balanced meals
-- Planning ahead
-- Staying hydrated
-- Learning from experience
-
-The goal is creating a lifestyle I can maintain.
-
-## Common Nutrition Progress Mistakes
-
-Things I want to avoid:
-
-- Only focusing on the scale
-- Changing habits too quickly
-- Comparing my progress to others
-- Expecting immediate results
-
-Everyone's journey looks different.
-
-## Learning From Results
-
-Progress gives me information.
-
-If something is working:
-
-- Continue building the habit
-
-If something is not working:
-
-- Adjust and learn
-
-The goal is understanding what helps me improve.
-
-## Nutrition And The Bigger Picture
-
-Nutrition is only one part of fitness.
-
-Progress comes from balancing:
-
-- Training
-- Nutrition
-- Recovery
-- Consistency
-
-Related topics:
-
-- [[Recovery]]
-- [[Strength Training]]
-- [[Cardio Training]]
+What matters most is what you do consistently over time.
 
 ## Keep Learning
 
-Related pages:
+Nutrition is always evolving, and so will your understanding of it.
 
-- [[Basics]]
-- [[Macronutrients]]
-- [[Meal Planning]]
-- [[Supplements]]
+Stay curious, keep learning, and adjust your habits as you discover what works best for you.
 
-Related folders:
+## Continue Learning
 
-- [[Beginner Workouts]]
-- [[Strength Training]]
-- [[Injury Prevention]]
-
-## What I'm Taking Away
-
-Nutrition progress is not about being perfect.
-
-It is about learning what works for me, improving my habits, and creating a routine that supports my goals over time.
+- [[Strength-training-02/Progress|Strength Training]]
+- [[Cardio-training-03/Progress|Cardio Training]]
+- [[Injury-prevention-05/Recovery|Recovery]]
+- [[Beginner-workouts-01/Tracking Progress|Tracking Progress]]

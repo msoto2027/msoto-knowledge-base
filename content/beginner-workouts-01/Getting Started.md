@@ -3,181 +3,55 @@ title: Getting Started
 ---
 # Getting Started
 
-> Learning how to begin my fitness journey again and build a routine that feels realistic.
+Starting (or restarting) your fitness journey can feel overwhelming.
 
-When I started getting back into fitness, I felt like I needed to know everything before starting.
+I know that feeling because I'm currently getting back into the gym myself. My goal isn't to become perfect overnight—it's simply to become a little better each week.
 
-I'm learning that the first step is simply beginning.
+The biggest mistake most beginners make is trying to do **too much too soon**. Instead of chasing the "perfect" workout, focus on building habits you can stick with.
 
-I do not need the perfect workout plan, the best equipment, or complete knowledge.
+## Focus on the Basics
 
-I need a starting point and the willingness to keep learning.
+As a beginner, your priorities should be:
 
-## Starting Where I Am
+- Learning proper exercise form
+- Building consistency
+- Improving overall fitness
+- Staying injury-free
+- Having fun and enjoying the process
 
-Everyone starts from a different place.
+Don't worry about lifting the heaviest weights or spending hours at the gym.
 
-My starting point depends on:
+Showing up consistently beats having one amazing workout every few weeks.
 
-- Previous experience
-- Current fitness level
-- Available time
-- Personal goals
+## Before Your First Workout
 
-Instead of comparing myself to others, I want to focus on improving from where I am now.
+Before heading to the gym:
 
-## Building The First Habit
+- Wear comfortable clothes.
+- Bring a water bottle.
+- Eat a balanced meal 1–3 hours beforehand.
+- Plan what exercises you'll do.
+- Warm up before lifting.
 
-The first goal is not becoming advanced.
+For more on warming up, visit [[Injury-prevention-05/Warm Up|Injury Prevention]].
 
-The first goal is creating consistency.
+## Remember
 
-Simple habits that help:
+Everyone starts somewhere.
 
-- Scheduling workouts
-- Preparing clothes ahead of time
-- Using a fitness app to track progress
-- Creating playlists that make workouts enjoyable
+Nobody walks into the gym knowing everything.
 
-Small habits make starting easier.
+Every experienced lifter was once a beginner.
 
-## Creating Realistic Expectations
+## Continue Learning
 
-Progress takes time.
+After you've gotten comfortable, learn how to build your first workout:
 
-I'm learning that fitness is not about changing everything overnight.
+→ [[Creating First Routine]]
 
-A realistic approach means:
+## Related Pages
 
-- Starting with manageable workouts
-- Learning proper movement
-- Slowly increasing difficulty
-- Giving my body time to adapt
-
-Related topics:
-
-- [[Injury Prevention]]
-- [[Recovery]]
-
-## How Often Should I Work Out?
-
-There is no single perfect schedule.
-
-A good starting routine should:
-
-- Fit my lifestyle
-- Allow recovery
-- Be something I can maintain
-
-Consistency matters more than trying to do too much.
-
-Related topic:
-
-- [[Creating First Routine]]
-
-## What Should I Focus On First?
-
-As a beginner, I want to focus on:
-
-- Learning basic exercises
-- Building a routine
-- Improving movement
-- Enjoying the process
-
-The basics create the foundation for everything else.
-
-## Choosing Activities I Enjoy
-
-One thing I am learning is that fitness is easier to maintain when I enjoy it.
-
-Things that help me stay interested:
-
-- Listening to music
-- Trying different workouts
-- Tracking improvements
-- Exploring new exercises
-
-Finding enjoyment makes consistency easier.
-
-## Using A Fitness App
-
-A fitness app can help me stay organized.
-
-I can use it to:
-
-- Record workouts
-- Track progress
-- Follow routines
-- Remember exercises
-
-The app does not create progress by itself.
-
-It simply helps me stay aware of my habits.
-
-## Understanding Beginner Workouts
-
-Beginner workouts usually focus on:
-
-- Learning movements
-- Building basic strength
-- Improving endurance
-- Creating confidence
-
-The goal is creating a strong foundation before increasing difficulty.
-
-Related topics:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-
-## Common Beginner Mistakes
-
-Things I want to avoid:
-
-- Doing too much too soon
-- Comparing myself to experienced people
-- Ignoring recovery
-- Changing routines constantly
-- Expecting immediate results
-
-Progress comes from staying consistent.
-
-## When To Increase Difficulty
-
-As I improve, I can slowly increase challenges.
-
-Examples:
-
-- Adding more weight
-- Increasing repetitions
-- Improving workout duration
-- Learning new exercises
-
-Progress should feel challenging but manageable.
-
-Related topic:
-
-- [[Tracking Progress]]
-
-## Keep Learning
-
-Related pages:
-
-- [[Creating First Routine]]
-- [[Workout Basics]]
 - [[Staying Consistent]]
-
-Related folders:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-- [[Nutrition]]
-- [[Equipment Guide]]
-
-## What I'm Taking Away
-
-Starting fitness is about building a foundation.
-
-I do not need to be perfect before I begin.
-
-I just need to start, learn, and continue improving one workout at a time.
+- [[Tracking Progress]]
+- [[Strength-training-02/Basics|Strength Training]]
+- [[Nutrition-04/Basics|Nutrition]]

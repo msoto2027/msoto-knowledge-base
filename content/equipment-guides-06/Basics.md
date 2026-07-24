@@ -3,204 +3,37 @@ title: Basics
 ---
 # Basics
 
-> Learning the purpose of fitness equipment and understanding what tools can actually help me improve.
+Gym equipment is simply a collection of tools that help you exercise safely and effectively.
 
-When I started looking into equipment, it was easy to think I needed more things before I could make progress.
+Some equipment helps build strength, while others improve endurance or flexibility.
 
-I'm learning that equipment should support my training, not become the focus of it.
+As a beginner, don't feel like you need to know how every machine works on your first day.
 
-The best tools are the ones that help me train consistently and safely.
+Learning one piece at a time is completely okay.
 
-## What Is Fitness Equipment?
+## Main Types of Equipment
 
-Fitness equipment includes tools that help me perform, modify, or improve exercises.
+Most gyms include:
 
-Equipment can help me:
-
-- Add resistance
-- Increase difficulty
-- Improve movement options
-- Make workouts more convenient
-
-Examples include:
-
-- Dumbbells
-- Resistance bands
-- Machines
+- Free weights
+- Strength machines
+- Cable machines
 - Cardio equipment
-- Exercise accessories
+- Functional training equipment
 
-## Why Use Equipment?
+Each serves a different purpose, and they all have a place in a balanced fitness routine.
 
-Equipment can be useful because it allows me to:
+## Don't Be Intimidated
 
-- Challenge my muscles
-- Track improvements
-- Try different exercises
-- Train in different ways
+Every experienced gym-goer had a first day.
 
-For example:
+Most people are focused on their own workouts—not judging yours.
 
-Adding weight to an exercise can create more challenge over time.
+If you're unsure how to use a machine, ask a gym employee or trainer for help.
 
-Related topic:
-
-- [[Strength Training]]
-
-## Equipment Is A Tool
-
-One thing I am learning is that equipment does not create results by itself.
-
-Progress comes from:
-
-- Consistent workouts
-- Proper technique
-- Good recovery
-- Balanced nutrition
-
-Equipment simply helps support those habits.
-
-Related topics:
-
-- [[Nutrition]]
-- [[Injury Prevention]]
-
-## Main Equipment Categories
-
-Fitness equipment can generally be grouped into different categories.
-
-## Strength Equipment
-
-Used for building strength and resistance.
-
-Examples:
-
-- Dumbbells
-- Barbells
-- Machines
-- Resistance bands
-
-Related topic:
-
-- [[Strength Gear]]
-
-## Cardio Equipment
-
-Used for improving endurance and cardiovascular fitness.
-
-Examples:
-
-- Treadmills
-- Bikes
-- Rowers
-- Ellipticals
-
-Related topic:
-
-- [[Cardio Gear]]
-
-## Accessories
-
-Smaller tools that can support workouts.
-
-Examples:
-
-- Exercise mats
-- Foam rollers
-- Lifting straps
-- Workout bags
-
-Accessories can be helpful, but they are usually not the first thing I need.
-
-## Beginner Equipment Mistakes
-
-Things I want to avoid:
-
-- Buying everything at once
-- Following trends without understanding them
-- Buying equipment I do not use
-- Choosing equipment before knowing my goals
-
-The best equipment choices come from understanding my needs.
-
-## Equipment And Progression
-
-Equipment helps create progression by allowing me to increase challenges.
-
-Examples:
-
-Strength training:
-
-- Increasing weight
-- Adding resistance
-
-Cardio training:
-
-- Increasing duration
-- Increasing resistance
-- Improving performance
-
-Related topics:
-
-- [[Progress]]
-- [[Cardio Training]]
-
-## Understanding Quality
-
-More expensive does not always mean better.
-
-When choosing equipment, I want to consider:
-
-- Durability
-- Comfort
-- Safety
-- How often I will use it
-
-The best choice depends on my situation.
-
-## Safety Basics
-
-Before using equipment, I want to make sure:
-
-- I understand how it works
-- It is adjusted correctly
-- I use proper technique
-- I do not rush through movements
-
-Equipment should make training better, not create unnecessary problems.
-
-Related topic:
-
-- [[Safe Training]]
-
-## Choosing What I Need
-
-Before buying equipment, I can ask:
-
-- What is my goal?
-- Do I already have something that works?
-- Will this improve my workouts?
-- Will I use it consistently?
-
-A simple setup can be more effective than a large collection of unused equipment.
-
-## Keep Learning
-
-Related pages:
+## Related Pages
 
 - [[Strength Gear]]
 - [[Cardio Gear]]
-- [[Home Setup]]
 - [[Choosing Gear]]
-
-Related folders:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-- [[Beginner Workouts]]
-
-## What I'm Taking Away
-
-Equipment is helpful, but it is only one part of fitness.
-
-Learning how to use the right tools at the right time helps me train smarter and make better decisions.
+- [[Home Setup]]

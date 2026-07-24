@@ -3,159 +3,40 @@ title: Basics
 ---
 # Basics
 
-> Learning the foundation of injury prevention and understanding the habits that help me train consistently.
+When people think about fitness, they often focus on lifting heavier weights or running farther.
 
-When I started getting back into fitness, I thought avoiding injuries was mostly about being careful.
+But staying healthy enough to keep training is just as important.
 
-I'm learning that staying healthy during training comes from building good habits over time.
+Injury prevention isn't about avoiding hard work—it's about training smarter so you can continue making progress.
 
-The way I train, recover, and progress all play a role.
+## Why Injury Prevention Matters
 
-## What Causes Training Setbacks?
+Training safely can help you:
 
-Most setbacks do not come from one single thing.
+- Reduce your risk of injury
+- Recover faster
+- Improve workout performance
+- Build confidence in the gym
+- Stay consistent with your routine
 
-They can happen because of:
+Missing weeks because of an injury can slow your progress more than taking an extra rest day when needed.
 
-- Increasing difficulty too quickly
-- Poor movement habits
-- Not allowing enough recovery
-- Ignoring warning signs
-- Using equipment incorrectly
+## Prevention Starts with Good Habits
 
-I'm learning that small habits can make a big difference.
+Simple habits make a big difference:
 
-## Start With A Strong Foundation
+- Warm up before workouts
+- Learn proper exercise form
+- Don't rush progress
+- Stay hydrated
+- Get enough sleep
+- Listen to your body
 
-Before trying advanced workouts, I want to focus on:
+These habits may seem small, but they add up over time.
 
-- Learning basic movements
-- Building consistency
-- Improving technique
-- Understanding my limits
-
-A strong foundation makes future progress easier.
-
-Related topics:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-
-## Listening To My Body
-
-Learning how my body feels is an important part of training.
-
-Normal training feelings may include:
-
-- Muscle fatigue
-- Feeling challenged
-- Mild soreness
-
-Things I should pay attention to:
-
-- Sharp pain
-- Sudden discomfort
-- Pain that changes my movement
-- Symptoms that continue getting worse
-
-Learning the difference between challenge and warning signs helps me make better decisions.
-
-## Progressing At The Right Pace
-
-One of the biggest mistakes I can make is trying to progress too quickly.
-
-Progress can be increased through:
-
-- More weight
-- More repetitions
-- Longer workouts
-- Higher intensity
-
-The key is making changes gradually.
-
-My body needs time to adapt.
-
-Related topic:
-
-- [[Progress]]
-
-## The Importance Of Technique
-
-Good technique helps me move with more control.
-
-Things I want to focus on:
-
-- Proper positioning
-- Controlled movements
-- Full understanding of exercises
-- Avoiding unnecessary strain
-
-Improving technique is progress.
-
-Related topic:
-
-- [[Form & Technique]]
-
-## Recovery As Prevention
-
-Training creates stress on my body.
-
-Recovery allows my body to adapt.
-
-Important recovery habits include:
-
-- Getting enough sleep
-- Eating enough nutrients
-- Taking rest days
-- Managing workout intensity
-
-Related topics:
-
-- [[Recovery]]
-- [[Nutrition]]
-
-## Common Training Mistakes
-
-Things I want to avoid:
-
-- Doing too much too soon
-- Skipping warm-ups
-- Ignoring recovery
-- Comparing my progress to others
-- Training through problems I should address
-
-Smart training is about consistency, not proving how hard I can push.
-
-## Building Long-Term Habits
-
-Injury prevention is not something I do only when something hurts.
-
-It is built through everyday habits:
-
-- Warming up
-- Using proper form
-- Recovering properly
-- Adjusting when needed
-
-These habits help me continue training for years.
-
-## Keep Learning
-
-Related pages:
+## Related Pages
 
 - [[Warm Up]]
+- [[Safe Training]]
 - [[Recovery]]
 - [[Common Issues]]
-- [[Safe Training]]
-
-Related folders:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-- [[Beginner Workouts]]
-
-## What I'm Taking Away
-
-Preventing injuries is about making smarter choices while training.
-
-I do not need to avoid challenging myself. I just need to challenge myself in a way that allows me to keep improving.

@@ -1,138 +1,26 @@
 ---
 title: Injury Prevention
 ---
-# Injury Prevention
+Welcome to the **Injury Prevention** section of FitIQ!
 
-> Learning how to train in a way that helps me stay consistent, reduce unnecessary setbacks, and build fitness for the long term.
+One of the best ways to make progress is to stay healthy enough to keep training. While injuries can happen to anyone, many can be prevented by using proper form, warming up, recovering well, and listening to your body.
 
-When I started getting back into working out, one thing I wanted to understand better was how to avoid getting hurt.
+As someone getting back into the gym, I'm learning that taking care of my body is just as important as pushing myself during workouts.
 
-At first, I thought injury prevention was mostly about stretching before a workout.
+This section focuses on building habits that help you train safely and consistently.
 
-I'm learning that it is much more than that.
-
-Training safely comes from understanding my body, using proper technique, recovering properly, and progressing at the right pace.
-
-## What Is Injury Prevention?
-
-Injury prevention is the process of building habits that reduce the chances of getting hurt while exercising.
-
-This includes:
-
-- Learning proper movement
-- Managing workout intensity
-- Recovering properly
-- Using equipment correctly
-- Listening to my body
-
-The goal is not avoiding all discomfort.
-
-The goal is understanding the difference between normal training and signs that I need to adjust.
-
-## Why Injury Prevention Matters
-
-Staying healthy helps me:
-
-- Train consistently
-- Make better progress
-- Enjoy workouts more
-- Avoid unnecessary setbacks
-
-A workout routine only works if I can continue doing it.
-
-## What I'm Learning
-
-When getting back into fitness, I am focusing on:
-
-- Building a strong foundation
-- Improving my technique
-- Increasing difficulty slowly
-- Recovering properly
-- Paying attention to how my body feels
-
-I do not need to rush progress.
-
-Consistency over time matters more.
-
-## Main Areas Of Injury Prevention
-
-### Basics
-
-Understanding the foundation of safe training.
-
-Topics include:
-
-- Training habits
-- Listening to my body
-- Common causes of setbacks
-
-### Warm Up
-
-Learning how to prepare my body before exercise.
-
-Topics include:
-
-- Dynamic movement
-- Mobility
-- Preparing for workouts
-
-### Recovery
-
-Understanding how my body adapts after training.
-
-Topics include:
-
-- Sleep
-- Rest days
-- Muscle recovery
-- Managing fatigue
-
-### Common Issues
-
-Learning about problems that can happen during training.
-
-Topics include:
-
-- Soreness
-- Overuse
-- Poor movement patterns
-- Training mistakes
-
-### Safe Training
-
-Learning how to make smarter training decisions.
-
-Topics include:
-
-- Exercise modifications
-- Progressing safely
-- Choosing appropriate challenges
-
-## Injury Prevention And The Rest Of Fitiq
-
-Training safely connects with every area of fitness.
-
-Related topics:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-- [[Nutrition]]
-- [[Equipment Guide]]
-
-How I train, recover, and fuel my body all affect my ability to keep improving.
-
-## Keep Learning
-
-Related pages:
+## Pages
 
 - [[Basics]]
 - [[Warm Up]]
+- [[Safe Training]]
 - [[Recovery]]
 - [[Common Issues]]
-- [[Safe Training]]
 
-## What I'm Taking Away
+## Related Topics
 
-Injury prevention is not about being afraid of exercise.
-
-It is about learning how to train smarter so I can keep improving and stay consistent over time.
+- [[Beginner-workouts-01/Getting Started|Beginner Workouts]]
+- [[Strength-training-02/Form & Techniques|Strength Training]]
+- [[Cardio-training-03/Basics|Cardio Training]]
+- [[Nutrition-04/Basics|Nutrition]]
+- [[Faq-07/Recovery|FAQ]]

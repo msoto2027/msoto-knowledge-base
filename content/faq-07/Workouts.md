@@ -3,215 +3,76 @@ title: Workouts
 ---
 # Workouts
 
-> Quick answers to common questions about exercise, training, and building better workouts.
+## Should I do cardio or strength training?
 
-When I started learning about workouts, there were many questions about what I should do, how often I should train, and how to know if I was improving.
+Ideally, both.
 
-The basics matter most:
+Strength training builds muscle, while cardio improves endurance and heart health.
 
-- Consistent training
-- Proper movement
-- Gradual improvement
-- Recovery
+Learn more:
 
-## How Long Should My Workouts Be?
+- [[Strength-training-02/Basics|Strength Training]]
+- [[Cardio-training-03/Basics|Cardio Training]]
 
-Workout length depends on my goals, schedule, and experience.
+---
 
-A good workout does not need to be extremely long.
+## Which exercises should I learn first?
 
-A beginner workout can focus on:
+Focus on basic movements like:
 
-- Warm up
-- Main exercises
-- Recovery
+- Squats
+- Push-ups
+- Rows
+- Shoulder Press
+- Planks
 
-The quality of my workout matters more than the amount of time spent.
+These build a strong foundation.
 
-Related page:
+---
 
-- [[Workout Basics]]
+## How much weight should I lift?
 
-## How Many Days A Week Should I Work Out?
+Start with a weight that allows you to perform every repetition with good form.
 
-There is no perfect number for everyone.
+You can always increase the weight later.
 
-A good routine depends on:
+---
 
-- My goals
-- My schedule
-- My recovery
+## Should I work out every day?
 
-The most important thing is creating a routine I can consistently follow.
+Not necessarily.
 
-Related page:
+Rest days are an important part of recovery.
 
-- [[Creating First Routine]]
+---
 
-## Should I Do Strength Training Or Cardio First?
+## How do I know if I'm getting stronger?
 
-It depends on my main goal.
+Signs include:
 
-If my focus is strength:
+- Lifting more weight
+- Doing more reps
+- Better technique
+- Feeling more confident
 
-- Strength training may come first
+Learn more in [[Strength-training-02/Progress|Progress]].
 
-If my focus is endurance:
+---
 
-- Cardio may be prioritized
+## Is soreness normal?
 
-A balanced routine can include both.
+Yes.
 
-Related pages:
+Some soreness is expected when starting a new routine.
 
-- [[Strength Training]]
-- [[Cardio Training]]
+Sharp or severe pain is different and shouldn't be ignored.
 
-## How Many Sets And Repetitions Should I Do?
+Read more in [[Injury-prevention-05/Common Issues|Common Issues]].
 
-Sets and repetitions depend on the exercise and my goals.
+---
 
-In general:
+## Related Pages
 
-- More repetitions can focus on endurance
-- More resistance can focus on strength
-
-The most important beginner focus is learning proper movement.
-
-Related pages:
-
-- [[Workout Basics]]
-- [[Strength Training]]
-
-## How Much Rest Should I Take Between Workouts?
-
-Rest allows my body to recover and adapt.
-
-Recovery needs depend on:
-
-- Workout intensity
-- Training experience
-- Sleep
-- Overall lifestyle
-
-Rest is part of progress, not time wasted.
-
-Related pages:
-
-- [[Recovery]]
-- [[Injury Prevention]]
-
-## Should I Work Out When I Am Sore?
-
-Some soreness can be normal when starting or changing workouts.
-
-I want to pay attention to:
-
-- How my body feels
-- My energy levels
-- Whether movement feels normal
-
-Training through serious pain is not the goal.
-
-Related page:
-
-- [[Safe Training]]
-
-## What If I Stop Making Progress?
-
-Progress can slow down over time.
-
-Things I can review:
-
-- Am I staying consistent?
-- Am I recovering enough?
-- Is my routine challenging enough?
-- Are my goals changing?
-
-Adjustments are part of improving.
-
-Related pages:
-
-- [[Tracking Progress]]
-- [[Progress]]
-
-## Do I Need To Change My Workout Routine Often?
-
-Not always.
-
-A routine can work for a long time if I am:
-
-- Improving
-- Enjoying it
-- Making progress
-
-Changing things too often can make it harder to measure improvement.
-
-## Do I Need Equipment To Work Out?
-
-No.
-
-I can make progress with:
-
-- Bodyweight exercises
-- Outdoor activities
-- Simple equipment
-
-Equipment can help, but it is not required.
-
-Related page:
-
-- [[Equipment Guide]]
-
-## How Do I Make Workouts More Enjoyable?
-
-Enjoyment helps with consistency.
-
-Things that can help:
-
-- Listening to music
-- Creating playlists
-- Using fitness apps
-- Tracking improvements
-- Trying activities I enjoy
-
-Fitness is easier to maintain when it fits my lifestyle.
-
-## How Do I Know If I Am Improving?
-
-Progress can include:
-
-- Getting stronger
-- Improving endurance
-- Moving better
-- Completing workouts consistently
-
-Progress is not only measured by appearance.
-
-Related page:
-
-- [[Tracking Progress]]
-
-## Keep Learning
-
-Related pages:
-
-- [[Workout Basics]]
-- [[Creating First Routine]]
-- [[Staying Consistent]]
-- [[Tracking Progress]]
-
-Related folders:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-- [[Injury Prevention]]
-- [[Equipment Guide]]
-
-## What I'm Taking Away
-
-Good workouts are built through consistency, learning, and gradual improvement.
-
-I do not need a perfect routine.
-
-I need a routine I can continue building.
+- [[Strength-training-02/Basics|Strength Training]]
+- [[Cardio-training-03/Basics|Cardio Training]]
+- [[Beginner-workouts-01/Tracking Progress|Tracking Progress]]

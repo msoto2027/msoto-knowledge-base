@@ -3,179 +3,54 @@ title: Meal Planning
 ---
 # Meal Planning
 
-> Learning how to make eating easier by creating simple habits and preparing meals that support my goals.
+Meal planning doesn't have to mean eating the same meal every day.
 
-When I started focusing more on nutrition, I thought meal planning meant making complicated recipes and preparing every meal perfectly.
-
-I'm learning that meal planning is really about making better choices easier.
-
-A simple plan can help me stay consistent.
+It's simply planning ahead so making healthy choices becomes easier.
 
 ## Why Meal Planning Helps
 
-Meal planning can help me:
+Planning meals can help you:
 
 - Save time
-- Reduce stress around food choices
-- Prepare for busy days
-- Support my fitness goals
+- Save money
+- Reduce stress
+- Avoid unhealthy last-minute choices
+- Stay consistent with your goals
 
-The goal is not making every meal perfect.
+## Build a Balanced Plate
 
-The goal is making good choices easier.
+A simple way to build meals is to include:
 
-## Building A Balanced Meal
-
-A simple meal can include:
-
-- A protein source
+- A source of protein
 - A carbohydrate source
-- Healthy fats
 - Fruits or vegetables
+- A healthy fat
 
-Examples:
+This creates a balanced meal that supports energy and recovery.
 
-Chicken:
+## Prep Ahead
 
-- Chicken
+You don't need to prepare every meal for the week.
+
+Even preparing:
+
+- Cooked chicken
 - Rice
-- Vegetables
-- Healthy fat source
+- Chopped vegetables
+- Hard-boiled eggs
 
-Breakfast:
+can make healthy eating much easier.
 
-- Eggs
-- Oatmeal
-- Fruit
+## Stay Flexible
 
-The exact foods can change based on my preferences.
+It's okay to enjoy your favorite foods.
 
-Related topic:
+Healthy eating isn't about restriction—it's about balance.
+
+One meal won't make or break your progress.
+
+## Related Pages
 
 - [[Macronutrients]]
-
-## Planning Around Workouts
-
-Food timing can help support my training.
-
-Before workouts, I may focus on:
-
-- Having enough energy
-- Eating foods I digest well
-
-After workouts, I may focus on:
-
-- Recovery
-- Getting enough nutrients
-
-Related topics:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-- [[Recovery]]
-
-## Simple Meal Planning Steps
-
-A basic approach:
-
-1. Choose meals I enjoy
-2. Make sure they support my goals
-3. Create a grocery list
-4. Prepare what I can ahead of time
-5. Adjust as needed
-
-Meal planning should make life easier.
-
-## Meal Prep Basics
-
-Meal prep does not have to mean cooking an entire week of food.
-
-It can be as simple as:
-
-- Preparing protein ahead of time
-- Washing fruits and vegetables
-- Cooking extra portions
-- Preparing easy snacks
-
-Small preparation steps can save time later.
-
-## Creating A Grocery Routine
-
-A simple grocery routine can help me stay consistent.
-
-Things I can plan for:
-
-- Protein sources
-- Carbohydrates
-- Fruits and vegetables
-- Healthy fats
-- Easy snacks
-
-Having useful options available makes better choices easier.
-
-## Eating Out
-
-Eating out does not mean I cannot make progress.
-
-I can focus on:
-
-- Choosing meals that fit my goals
-- Paying attention to portions
-- Enjoying food without overthinking
-
-Balance matters more than perfection.
-
-## Flexible Nutrition
-
-A realistic approach allows flexibility.
-
-I am learning that I can:
-
-- Enjoy foods I like
-- Have meals with friends
-- Adjust when plans change
-
-A sustainable routine should fit my life.
-
-## Common Meal Planning Mistakes
-
-Things I want to avoid:
-
-- Making plans too complicated
-- Choosing foods I do not enjoy
-- Trying to be perfect
-- Preparing more food than I will use
-
-The best plan is one I can actually follow.
-
-## Making Nutrition Easier
-
-Helpful habits:
-
-- Keep simple meals available
-- Learn a few reliable recipes
-- Plan ahead for busy days
-- Focus on consistency
-
-Nutrition becomes easier with practice.
-
-## Keep Learning
-
-Related pages:
-
-- [[Basics]]
-- [[Macronutrients]]
-- [[Supplements]]
 - [[Nutrition Progress]]
-
-Related folders:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-- [[Beginner Workouts]]
-
-## What I'm Taking Away
-
-Meal planning is not about making food complicated.
-
-It is about creating a system that helps me make choices that support my goals while still enjoying life.
+- [[Beginner-workouts-01/Staying Consistent|Beginner Workouts]]

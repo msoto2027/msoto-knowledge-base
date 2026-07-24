@@ -1,202 +1,52 @@
 ---
 title: Cardio Types
 ---
-# Cardio Types
+# Types
 
-> Learning about the different types of cardio and understanding that there are many ways to improve endurance.
+There are many ways to do cardio, and you don't have to run if you don't enjoy it.
 
-When I first thought about cardio, I mostly thought about running.
-
-I'm learning that cardio includes many different activities, and the best choice depends on my goals, preferences, and current fitness level.
-
-Finding something I enjoy makes it much easier to stay consistent.
+The best type of cardio is the one you'll stick with consistently.
 
 ## Walking
 
-Walking is one of the simplest forms of cardio.
+One of the easiest and most beginner-friendly options.
 
-Benefits:
+Great for:
 
-- Easy to start
-- Low impact
-- Helps build consistency
-- Supports daily movement
+- Beginners
+- Recovery days
+- Improving daily activity
 
-Walking can be a great option when:
+## Jogging or Running
 
-- Getting back into fitness
-- Recovering from harder workouts
-- Building a basic endurance foundation
+A great way to improve endurance and cardiovascular fitness.
 
-## Running
-
-Running is a popular form of cardio that can improve endurance and conditioning.
-
-Benefits:
-
-- Improves cardiovascular fitness
-- Requires little equipment
-- Can be done almost anywhere
-
-Things I want to focus on:
-
-- Starting slowly
-- Building distance gradually
-- Using proper running form
-- Allowing recovery
-
-Running does not have to start with long distances. Small improvements matter.
+Start slowly and build up over time.
 
 ## Cycling
 
-Cycling is a cardio option that can be easier on the joints compared to some other activities.
-
-Types include:
-
-- Outdoor cycling
-- Stationary bikes
-- Spin classes
-
-Benefits:
-
-- Builds endurance
-- Can be adjusted by resistance
-- Useful for longer workouts
-
-## Swimming
-
-Swimming provides a full-body cardio workout.
-
-Benefits:
-
-- Low impact
-- Uses many muscles
-- Builds endurance
-
-Swimming can be useful for people who want a challenging workout with less stress on joints.
+Whether on a stationary bike or outdoors, cycling is a low-impact option that's easy on your joints.
 
 ## Rowing
 
-Rowing combines cardio and full-body movement.
+Rowing is a full-body workout that improves both endurance and strength.
 
-It involves:
+## Swimming
 
-- Legs
-- Core
-- Back
-- Arms
+Swimming is excellent for people who want a low-impact workout that works nearly every muscle in the body.
 
-Benefits:
+## Stair Climber
 
-- Improves conditioning
-- Trains multiple muscle groups
-- Can provide a challenging workout
+A great way to build endurance while strengthening your legs.
 
-Proper technique is important because rowing uses many parts of the body.
+## Find What You Enjoy
 
-Related topic:
+If you enjoy your cardio, you're much more likely to keep doing it.
 
-- [[Form & Technique]]
+Don't be afraid to try different activities until you find your favorite.
 
-## Cardio Machines
+## Related Pages
 
-Many gyms have equipment designed for cardio training.
-
-Examples:
-
-### Treadmill
-
-Useful for:
-
-- Walking
-- Jogging
-- Running
-
-### Bike
-
-Useful for:
-
-- Low-impact cardio
-- Longer sessions
-
-### Elliptical
-
-Useful for:
-
-- Full-body movement
-- Lower-impact workouts
-
-### Stair Machine
-
-Useful for:
-
-- Leg endurance
-- Higher-effort cardio
-
-The best machine is usually the one I can consistently use.
-
-Related topic:
-
-- [[Equipment Guide]]
-
-## Sports And Activities
-
-Cardio does not always have to feel like traditional exercise.
-
-Examples:
-
-- Basketball
-- Soccer
-- Hiking
-- Dancing
-- Swimming
-- Recreational activities
-
-Activities I enjoy can make staying active easier.
-
-## Choosing The Right Type Of Cardio
-
-When choosing cardio, I want to consider:
-
-- Do I enjoy it?
-- Does it match my goals?
-- Can I do it consistently?
-- Does it fit my schedule?
-- Does my body handle it well?
-
-The "best" cardio is the one I can continue doing.
-
-## Mixing Different Types
-
-I do not have to choose only one type of cardio.
-
-Combining different activities can help prevent boredom and improve overall fitness.
-
-Example:
-
-- Walking for recovery
-- Cycling for endurance
-- Running for performance
-
-Variety can help me stay motivated.
-
-## Keep Learning
-
-Related pages:
-
-- [[cardio-training-03/Basics]]
 - [[Training Methods]]
 - [[Endurance]]
-- [[Progress]]
-
-Related folders:
-
-- [[Strength Training]]
-- [[Equipment Guide]]
-- [[Injury Prevention]]
-
-## What I'm Taking Away
-
-There are many ways to train cardio.
-
-I do not need to force myself into one specific activity. Finding a type of movement I enjoy is what helps me stay consistent and improve over time.
+- [[Beginner-workouts-01/Staying Consistent|Beginner Workouts]]

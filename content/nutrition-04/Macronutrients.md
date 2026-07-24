@@ -3,206 +3,77 @@ title: Macronutrients
 ---
 # Macronutrients
 
-> Learning about the main nutrients my body uses for energy, recovery, and supporting my fitness goals.
+Macronutrients are the nutrients your body needs in the largest amounts.
 
-When I first heard about nutrition, I kept seeing people talk about protein, carbs, and fats.
+They're often called "macros."
 
-I'm learning that these nutrients are not something I need to fear or avoid.
-
-Each one has a purpose and helps my body in different ways.
-
-## What Are Macronutrients?
-
-Macronutrients are nutrients my body needs in larger amounts.
-
-The three main macronutrients are:
-
-- Protein
-- Carbohydrates
-- Fats
-
-Each one plays a different role in supporting my health and fitness.
+There are three main macronutrients.
 
 ## Protein
 
-Protein is important for:
+Protein helps your body:
 
-- Muscle repair
-- Recovery
-- Building and maintaining muscle
+- Build muscle
+- Repair muscle after workouts
+- Support recovery
+- Keep you feeling full
 
-Protein is especially important when I am:
-
-- Strength training
-- Trying to build muscle
-- Recovering from workouts
-
-Common protein sources:
+Good protein sources include:
 
 - Chicken
+- Turkey
 - Fish
 - Eggs
 - Greek yogurt
+- Cottage cheese
 - Beans
 - Tofu
-- Lean meats
 
-Related topics:
-
-- [[Strength Training]]
-- [[Recovery]]
+If you're strength training regularly, getting enough protein can make a big difference.
 
 ## Carbohydrates
 
-Carbohydrates are one of my body's main energy sources.
+Carbs are your body's main source of energy.
 
-They can help support:
+They're especially helpful before and after workouts.
 
-- Workout performance
-- Daily energy
-- Endurance activities
-
-Carbohydrate sources include:
+Healthy carbohydrate sources include:
 
 - Rice
-- Bread
-- Pasta
-- Fruits
-- Potatoes
 - Oats
+- Potatoes
+- Fruit
+- Whole grain bread
+- Pasta
 
-Carbohydrates are especially useful when I need energy for training.
-
-Related topic:
-
-- [[Cardio Training]]
+Carbs aren't the enemy—they help fuel your workouts.
 
 ## Fats
 
-Fats are important for:
+Healthy fats support:
 
-- Overall health
-- Hormone function
-- Supporting energy needs
+- Hormone production
+- Brain health
+- Heart health
+- Overall wellness
 
-Healthy fat sources include:
+Good sources include:
 
+- Avocados
 - Nuts
 - Seeds
-- Avocado
 - Olive oil
+- Peanut butter
 - Fatty fish
 
-Fats are not something I need to avoid.
+Like everything else, balance is key.
 
-They are an important part of a balanced diet.
+## Don't Overthink It
 
-## Balancing Macronutrients
+Instead of obsessing over every gram, aim to include protein, carbohydrates, and healthy fats in most meals.
 
-I do not need every meal to have exact amounts of everything.
+## Related Pages
 
-A balanced approach can include:
-
-- A protein source
-- A carbohydrate source
-- Healthy fats
-- Fruits or vegetables
-
-The right balance depends on:
-
-- My goals
-- Activity level
-- Preferences
-- Lifestyle
-
-## Macronutrients And Fitness Goals
-
-### Strength Training Goals
-
-I may focus on:
-
-- Enough protein for recovery
-- Enough energy for workouts
-- Consistent meals
-
-Related topic:
-
-- [[Strength Training]]
-
-### Cardio Goals
-
-I may focus on:
-
-- Enough carbohydrates for energy
-- Staying hydrated
-- Supporting longer activities
-
-Related topic:
-
-- [[Cardio Training]]
-
-### General Fitness Goals
-
-I may focus on:
-
-- Eating a variety of foods
-- Building balanced meals
-- Creating sustainable habits
-
-## Do I Need To Track Macronutrients?
-
-Tracking can be useful for some people, but it is not required.
-
-Some people track to better understand:
-
-- Their eating habits
-- Their calorie intake
-- Their progress
-
-Others prefer focusing on:
-
-- Balanced meals
-- Portion awareness
-- Consistency
-
-The best method is the one I can maintain.
-
-## Common Macronutrient Mistakes
-
-Things I want to avoid:
-
-- Thinking one nutrient is the only important one
-- Completely removing carbs or fats
-- Focusing only on numbers
-- Making nutrition harder than it needs to be
-
-Balance is usually more sustainable.
-
-## Learning Over Time
-
-Understanding macronutrients helps me make better choices.
-
-I do not need to memorize everything immediately.
-
-The more I learn, the easier it becomes to build meals that support my goals.
-
-## Keep Learning
-
-Related pages:
-
-- [[Basics]]
 - [[Meal Planning]]
-- [[Nutrition Progress]]
 - [[Supplements]]
-
-Related folders:
-
-- [[Strength Training]]
-- [[Cardio Training]]
-- [[Recovery]]
-
-## What I'm Taking Away
-
-Protein, carbohydrates, and fats all have a role.
-
-Learning how they work helps me understand food better and make choices that support my fitness journey.
+- [[Strength-training-02/Basics|Strength Training]]

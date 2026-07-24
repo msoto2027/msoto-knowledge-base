@@ -3,209 +3,65 @@ title: Equipment
 ---
 # Equipment
 
-> Quick answers to common questions about fitness equipment, home setups, and choosing the right tools.
-
-When I started looking into equipment, I thought having more gear would automatically lead to better results.
-
-I'm learning that equipment is only useful when it supports my goals and helps me train consistently.
-
-The best equipment is the equipment I actually use.
-
-## Do I Need A Gym To Get Fit?
+## Do I need expensive equipment?
 
 No.
 
-A gym can be helpful, but it is not the only way to improve.
+Basic equipment is enough for most beginners.
 
-I can train with:
+Consistency matters much more than having fancy gear.
 
-- Bodyweight exercises
-- Outdoor activities
-- Home workouts
-- Simple equipment
+---
 
-The most important part is creating a consistent routine.
+## Are machines better than free weights?
 
-Related page:
+Neither is better.
 
-- [[Equipment Guide]]
+Machines are excellent for learning movements, while free weights help improve balance and coordination.
 
-## What Equipment Should Beginners Buy?
+Both have their place.
 
-Beginners do not need a large collection of equipment.
+---
 
-A simple starting setup may include:
+## Should I build a home gym?
 
-- Exercise mat
-- Resistance bands
-- Adjustable dumbbells
+If it fits your budget and lifestyle, it can be a great investment.
 
-The right choice depends on:
+You don't need everything right away.
 
-- My goals
-- Available space
-- Budget
-- Training preferences
+See [[Equipment-guides-06/Home Setup|Home Setup]].
 
-Related page:
+---
 
-- [[Choosing Gear]]
+## What's the best piece of equipment for beginners?
 
-## Are Home Workouts Effective?
+A pair of dumbbells is one of the most versatile options.
 
-Yes.
+Resistance bands are another great choice.
 
-Home workouts can help me improve through:
+---
 
-- Strength training
-- Cardio
-- Mobility work
-- Consistent practice
+## What should I bring to the gym?
 
-The effectiveness depends on how I structure and follow my workouts.
+A few essentials:
 
-Related page:
+- Water bottle
+- Comfortable workout clothes
+- Athletic shoes
+- Small towel (if your gym requires one)
+- Headphones (optional)
+- Workout log or fitness app
 
-- [[Home Setup]]
+---
 
-## What Is The Most Important Piece Of Equipment?
+### Can a smartwatch help with fitness?
 
-The most important tool is consistency.
+Yes! Smartwatches can make it easier to track workouts, heart rate, calories burned, and daily activity. I personally use an **Apple Watch** with **Apple Fitness** to keep track of my workouts and stay consistent. While you don't need a smartwatch to make progress, it can be a helpful tool for building healthy habits and seeing your progress over time. For more on tracking your progress, visit [[Beginner-workouts-01/Tracking Progress|Beginner Workouts]].
 
-Equipment can help me:
+![[apple_fitness.pdf]]
 
-- Add resistance
-- Increase variety
-- Make training easier
+--- 
+## Related Pages
 
-But equipment does not replace:
-
-- Good habits
-- Proper movement
-- Regular training
-
-## Should I Buy Equipment Before Starting?
-
-Not necessarily.
-
-A better approach is:
-
-1. Start training
-2. Learn what I enjoy
-3. Identify what would improve my workouts
-4. Add equipment over time
-
-This helps avoid buying things I never use.
-
-## Is More Expensive Equipment Better?
-
-Not always.
-
-When choosing equipment, I want to consider:
-
-- Quality
-- Safety
-- Durability
-- How often I will use it
-
-The best option depends on my situation.
-
-Related page:
-
-- [[Choosing Gear]]
-
-## Should I Buy Used Equipment?
-
-Used equipment can be a good option.
-
-Before buying, I want to check:
-
-- Condition
-- Safety
-- Functionality
-- Missing parts
-
-A good deal is only useful if the equipment is safe and usable.
-
-## What Equipment Helps With Strength Training?
-
-Strength equipment can include:
-
-- Dumbbells
-- Barbells
-- Resistance bands
-- Machines
-- Benches
-
-The best choice depends on my training goals.
-
-Related page:
-
-- [[Strength Gear]]
-
-## What Equipment Helps With Cardio?
-
-Cardio equipment can include:
-
-- Treadmills
-- Bikes
-- Rowers
-- Ellipticals
-- Jump ropes
-
-However, cardio can also be done without machines.
-
-Related page:
-
-- [[Cardio Gear]]
-
-## How Do I Choose Equipment For My Home?
-
-I can consider:
-
-- Available space
-- Budget
-- Workout goals
-- Storage needs
-- How often I will use it
-
-A simple setup that fits my lifestyle is usually the best choice.
-
-Related page:
-
-- [[Home Setup]]
-
-## Do Fitness Apps Replace Equipment?
-
-No.
-
-Fitness apps can help with:
-
-- Tracking workouts
-- Following routines
-- Recording progress
-
-Equipment and apps are both tools that support my habits.
-
-## Keep Learning
-
-Related pages:
-
-- [[Equipment Guide]]
-- [[Basics]]
-- [[Strength Gear]]
-- [[Cardio Gear]]
-- [[Home Setup]]
-- [[Choosing Gear]]
-
-Related folders:
-
-- [[Beginner Workouts]]
-- [[Strength Training]]
-- [[Cardio Training]]
-
-## What I'm Taking Away
-
-Equipment can make training more convenient, but it is not what creates progress.
-
-The best tools are the ones that help me stay consistent and continue improving.
+- [[Equipment-guides-06/Basics|Equipment Guides]]
+- [[Equipment-guides-06/Choosing Gear|Choosing Gear]]
