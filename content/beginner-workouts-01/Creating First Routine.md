@@ -29,8 +29,8 @@ My goals help decide what types of workouts I focus on.
 
 Related topics:
 
-- [[Strength Training]]
-- [[Cardio Training]]
+- [[strength-training-02/index|Strength Training]]
+- [[cardio-training-03/index|Cardio Training]]
 
 ## Choosing Workout Days
 
@@ -72,8 +72,8 @@ Cardio training helps with:
 
 Related topics:
 
-- [[Strength Training]]
-- [[Cardio Training]]
+- [[strength-training-02/index|Strength Training]]
+- [[cardio-training-03/index|Cardio Training]]
 
 ## Creating A Simple Workout Structure
 
