@@ -34,6 +34,8 @@ My brother and I recently decided to restart our fitness journey together before
 
 Because this project connects to my own goals and experiences, I believe it will help me stay engaged while creating a resource that can also support others working toward similar goals.
 
+### Click to learn more [[about|about me]]
+
 ## Fitness Journey
 
 My goal with FitIQ is not just to collect information.
@@ -168,3 +170,7 @@ I do not need to be perfect.
 I need to keep learning, improving, and creating a routine that supports my goals.
 
 FitIQ represents my journey toward becoming more knowledgeable about fitness while helping others who are working toward similar goals.
+
+# View Assignment
+
+[[assignments/org-system-analysis|Week 06 Assignment 02]]
