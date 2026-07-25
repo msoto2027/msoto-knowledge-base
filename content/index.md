@@ -1,5 +1,6 @@
 ---
 title: FitIQ Knowledge Base
+date: 2026-07-20
 ---
 # FitIQ Knowledge Base
 
@@ -174,3 +175,6 @@ FitIQ represents my journey toward becoming more knowledgeable about fitness whi
 # View Assignment
 
 [[assignments/org-system-analysis|Week 06 Assignment 02]]
+
+# References
+
