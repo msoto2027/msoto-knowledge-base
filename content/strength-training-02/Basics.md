@@ -55,6 +55,7 @@ Sleep, nutrition, and rest days are just as important as your workouts.
 
 Learn more in [[Nutrition-04/Basics|Nutrition]] and [[Injury-prevention-05/Recovery|Recovery]].
 
+![[Strength_training.pdf]]
 ## Related Pages
 
 - [[Exercises]]

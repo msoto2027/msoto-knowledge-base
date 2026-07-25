@@ -3,6 +3,8 @@ title: Strength Training
 ---
 Welcome to the **Strength Training** section of FitIQ!
 
+![[strength-home.jpg]]
+
 Strength training is one of the best ways to build muscle, increase confidence, improve overall health, and make everyday activities easier.
 
 As someone getting back into the gym, I'm using this section to learn proper techniques, understand how muscles grow, and become stronger over time.

@@ -24,6 +24,8 @@ Supplements can fill gaps, but they aren't magic.
 
 ### Protein Powder
 
+![[Protein_supplement.pdf]]
+
 A convenient way to increase your protein intake if you're struggling to meet your daily needs through food.
 
 ### Creatine Monohydrate
