@@ -3,6 +3,8 @@ title: Injury Prevention
 ---
 Welcome to the **Injury Prevention** section of FitIQ!
 
+![[foam rolling.jpg]]
+
 One of the best ways to make progress is to stay healthy enough to keep training. While injuries can happen to anyone, many can be prevented by using proper form, warming up, recovering well, and listening to your body.
 
 As someone getting back into the gym, I'm learning that taking care of my body is just as important as pushing myself during workouts.

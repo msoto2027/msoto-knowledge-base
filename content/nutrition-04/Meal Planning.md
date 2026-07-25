@@ -26,6 +26,8 @@ A simple way to build meals is to include:
 - Fruits or vegetables
 - A healthy fat
 
+![[balanced meal.jpg]]
+
 This creates a balanced meal that supports energy and recovery.
 
 ## Prep Ahead

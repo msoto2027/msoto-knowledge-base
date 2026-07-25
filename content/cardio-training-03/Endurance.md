@@ -18,6 +18,8 @@ Improve gradually by:
 
 Small improvements add up over time.
 
+![[hiking.jpg]]
+"Keep moving, improve over time."
 ## Don't Rush It
 
 One of the biggest mistakes beginners make is increasing intensity too quickly.

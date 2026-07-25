@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 ---
 Welcome to the **Frequently Asked Questions (FAQ)** section of FitIQ!
 
-Sometimes you don't need a full guide—you just need a quick answer.
+Sometimes you don't need a full guide; you just need a quick answer.
 
 This section is designed to answer some of the most common questions people have when starting (or restarting) their fitness journey.
 

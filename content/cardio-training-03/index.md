@@ -3,6 +3,8 @@ title: Cardio Training
 ---
 Welcome to the **Cardio Training** section of FitIQ!
 
+![[treadmill.jpg]]
+
 Cardio training is all about improving your heart health, endurance, and overall fitness. Whether you're walking around your neighborhood, jogging on a treadmill, or cycling at the gym, every bit of movement counts.
 
 As someone getting back into the gym, I'm using this section to better understand how cardio fits into a balanced fitness routine. My goal isn't to spend hours on a treadmill—it's to build endurance, stay healthy, and support my strength training.

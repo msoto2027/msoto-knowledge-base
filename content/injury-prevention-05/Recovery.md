@@ -11,6 +11,8 @@ Recovery is an important part of every fitness routine.
 
 ## Prioritize Sleep
 
+![[sleeping.jpg]]
+
 Sleep is one of the best recovery tools available.
 
 Aim for consistent, quality sleep whenever possible.
@@ -18,6 +20,8 @@ Aim for consistent, quality sleep whenever possible.
 Your body uses this time to repair muscles and recover from exercise.
 
 ## Stay Hydrated
+
+![[hydration.jpg]]
 
 Water supports nearly every function in your body.
 

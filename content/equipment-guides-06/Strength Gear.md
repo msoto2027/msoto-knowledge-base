@@ -9,6 +9,8 @@ You don't need to use every machine—focus on learning the basics first.
 
 ## Dumbbells
 
+![[dumbbells.jpg]]
+
 Dumbbells are one of the most versatile tools in the gym.
 
 They can be used for:
@@ -24,6 +26,8 @@ They're great because each side of your body works independently, helping improv
 
 ## Barbells
 
+![[barbells.jpg]]
+
 Barbells are commonly used for larger compound exercises like:
 
 - Squats
@@ -34,6 +38,8 @@ Barbells are commonly used for larger compound exercises like:
 They're excellent for building overall strength.
 
 ## Weight Machines
+
+![[weight machine.jpg]]
 
 Machines guide your movement, making them beginner-friendly.
 
@@ -49,6 +55,8 @@ Common machines include:
 They're a great way to learn movement patterns before progressing to free weights.
 
 ## Cable Machines
+
+![[cable machines.jpg]]
 
 Cable machines provide constant resistance throughout an exercise.
 

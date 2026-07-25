@@ -14,6 +14,7 @@ Using proper technique helps you:
 
 Remember, lifting lighter with good form is always better than lifting heavier with poor form.
 
+![[squat form.jpg]]
 ## Tips for Better Form
 
 - Move slowly and with control.

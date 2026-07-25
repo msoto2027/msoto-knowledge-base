@@ -9,6 +9,7 @@ They're often called "macros."
 
 There are three main macronutrients.
 
+![[protein.jpg|238]]
 ## Protein
 
 Protein helps your body:

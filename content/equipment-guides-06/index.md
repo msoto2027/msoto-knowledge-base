@@ -3,6 +3,8 @@ title: Equipment Guides
 ---
 Welcome to the **Equipment Guides** section of FitIQ!
 
+![[gym.jpg]]
+
 Walking into a gym for the first time can be intimidating. There are machines everywhere, racks full of weights, and equipment you've probably never seen before.
 
 I know that feeling because I'm getting back into the gym myself.

@@ -7,7 +7,7 @@ Welcome to the **Nutrition** section of FitIQ!
 
 Nutrition is one of the biggest pieces of the fitness puzzle. Whether your goal is building muscle, losing weight, gaining strength, or simply feeling healthier, what you eat plays a huge role.
 
-As someone getting back into the gym, I'm learning that you don't have to eat perfectly—you just need to make consistently good choices.
+As someone getting back into the gym, I'm learning that you don't have to eat perfectly, you just need to make consistently good choices.
 
 This section is all about understanding the basics of nutrition so you can fuel your body and support your fitness goals.
 

@@ -25,6 +25,8 @@ Start slowly and build up over time.
 
 ## Cycling
 
+![[biking.jpg]]
+
 Whether on a stationary bike or outdoors, cycling is a low-impact option that's easy on your joints.
 
 ## Rowing
@@ -32,6 +34,8 @@ Whether on a stationary bike or outdoors, cycling is a low-impact option that's 
 Rowing is a full-body workout that improves both endurance and strength.
 
 ## Swimming
+
+![[pool.jpg]]
 
 Swimming is excellent for people who want a low-impact workout that works nearly every muscle in the body.
 
