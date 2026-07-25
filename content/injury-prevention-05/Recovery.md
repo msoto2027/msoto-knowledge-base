@@ -61,6 +61,7 @@ Light activities like:
 
 can help you stay active while giving your body a break.
 
+![[recovery.pdf]]
 ## Related Pages
 
 - [[Nutrition-04/Basics|Nutrition]]

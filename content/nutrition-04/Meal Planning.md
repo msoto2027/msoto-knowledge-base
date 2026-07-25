@@ -51,6 +51,7 @@ Healthy eating isn't about restriction—it's about balance.
 
 One meal won't make or break your progress.
 
+![[meals.pdf]]
 ## Related Pages
 
 - [[Macronutrients]]
